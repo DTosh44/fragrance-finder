@@ -38,6 +38,13 @@ globalThis.fetch = async (url) => ({
 });
 
 const site = await import("../app.js");
+const retailerProducts = JSON.parse(await fs.readFile(new URL("../data/retailer-products.json", import.meta.url), "utf8"));
+
+assert.ok(retailerProducts.length > 0);
+assert.equal(new Set(retailerProducts.map((item) => item.id)).size, retailerProducts.length);
+assert.ok(retailerProducts.every((item) => item.retailer === "The Fragrance Shop"));
+assert.ok(retailerProducts.every((item) => item.productUrl.startsWith("https://www.thefragranceshop.co.uk/")));
+assert.ok(retailerProducts.every((item) => item.imageUrl.startsWith("https://images.thefragranceshop.co.uk/products/")));
 
 assert.match(appNode.innerHTML, /Find the fragrance/);
 assert.match(appNode.innerHTML, /Popular starting points/);
@@ -77,4 +84,5 @@ console.log(JSON.stringify({
   matchScores: matches.map((match) => match.finalScore),
   filteredExploreCount: filtered.length,
   detailRendered: true,
+  temporaryRetailerImages: retailerProducts.length,
 }, null, 2));
