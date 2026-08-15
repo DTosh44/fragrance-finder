@@ -1,0 +1,3052 @@
+[
+  {
+    "id": "W01-chanel-coco-mademoiselle",
+    "slug": "w01-chanel-coco-mademoiselle",
+    "popularityRank": 1,
+    "audience": "Perfume",
+    "brand": "Chanel",
+    "name": "Coco Mademoiselle",
+    "concentration": "EDP",
+    "family": "Amber floral",
+    "accords": [
+      "citrus",
+      "patchouli",
+      "rose",
+      "vanilla",
+      "woody"
+    ],
+    "moods": [
+      "polished",
+      "confident",
+      "versatile"
+    ],
+    "seasons": [
+      "spring",
+      "autumn",
+      "winter"
+    ],
+    "intensity": 3,
+    "bestFor": "Work, occasions and signature wear",
+    "popularityBasis": "UK fragrance retailer bestseller and popularity lists, reviewed August 2026",
+    "retailSource": "https://www.theperfumeshop.com/womens/womens-perfume/womens-bestsellers/c/W30001"
+  },
+  {
+    "id": "W02-carolina-herrera-la-bomba",
+    "slug": "w02-carolina-herrera-la-bomba",
+    "popularityRank": 2,
+    "audience": "Perfume",
+    "brand": "Carolina Herrera",
+    "name": "La Bomba",
+    "concentration": "EDP",
+    "family": "Floral fruity",
+    "accords": [
+      "pitaya",
+      "peony",
+      "fruity",
+      "vanilla",
+      "musk"
+    ],
+    "moods": [
+      "playful",
+      "bold",
+      "modern"
+    ],
+    "seasons": [
+      "spring",
+      "summer",
+      "autumn"
+    ],
+    "intensity": 3,
+    "bestFor": "Social occasions and evenings",
+    "popularityBasis": "UK fragrance retailer bestseller and popularity lists, reviewed August 2026",
+    "retailSource": "https://www.theperfumeshop.com/womens/womens-perfume/womens-bestsellers/c/W30001"
+  },
+  {
+    "id": "W03-yves-saint-laurent-libre",
+    "slug": "w03-yves-saint-laurent-libre",
+    "popularityRank": 3,
+    "audience": "Perfume",
+    "brand": "Yves Saint Laurent",
+    "name": "Libre",
+    "concentration": "EDP",
+    "family": "Amber floral",
+    "accords": [
+      "lavender",
+      "orange blossom",
+      "vanilla",
+      "citrus",
+      "musk"
+    ],
+    "moods": [
+      "confident",
+      "polished",
+      "bold"
+    ],
+    "seasons": [
+      "spring",
+      "autumn",
+      "winter"
+    ],
+    "intensity": 4,
+    "bestFor": "Work to evening",
+    "popularityBasis": "UK fragrance retailer bestseller and popularity lists, reviewed August 2026",
+    "retailSource": "https://www.theperfumeshop.com/womens/womens-perfume/womens-bestsellers/c/W30001"
+  },
+  {
+    "id": "W04-carolina-herrera-good-girl",
+    "slug": "w04-carolina-herrera-good-girl",
+    "popularityRank": 4,
+    "audience": "Perfume",
+    "brand": "Carolina Herrera",
+    "name": "Good Girl",
+    "concentration": "EDP",
+    "family": "Amber floral gourmand",
+    "accords": [
+      "white floral",
+      "tonka",
+      "cocoa",
+      "vanilla",
+      "coffee"
+    ],
+    "moods": [
+      "glamorous",
+      "bold",
+      "sensual"
+    ],
+    "seasons": [
+      "autumn",
+      "winter"
+    ],
+    "intensity": 4,
+    "bestFor": "Date nights and evening events",
+    "popularityBasis": "UK fragrance retailer bestseller and popularity lists, reviewed August 2026",
+    "retailSource": "https://www.theperfumeshop.com/womens/womens-perfume/womens-bestsellers/c/W30001"
+  },
+  {
+    "id": "W05-prada-paradoxe",
+    "slug": "w05-prada-paradoxe",
+    "popularityRank": 5,
+    "audience": "Perfume",
+    "brand": "Prada",
+    "name": "Paradoxe",
+    "concentration": "EDP",
+    "family": "Amber floral",
+    "accords": [
+      "orange blossom",
+      "amber",
+      "vanilla",
+      "musk",
+      "citrus"
+    ],
+    "moods": [
+      "modern",
+      "polished",
+      "versatile"
+    ],
+    "seasons": [
+      "spring",
+      "autumn",
+      "winter"
+    ],
+    "intensity": 3,
+    "bestFor": "Everyday signature and events",
+    "popularityBasis": "UK fragrance retailer bestseller and popularity lists, reviewed August 2026",
+    "retailSource": "https://www.theperfumeshop.com/womens/womens-perfume/womens-bestsellers/c/W30001"
+  },
+  {
+    "id": "W06-mugler-alien",
+    "slug": "w06-mugler-alien",
+    "popularityRank": 6,
+    "audience": "Perfume",
+    "brand": "Mugler",
+    "name": "Alien",
+    "concentration": "EDP",
+    "family": "Amber woody floral",
+    "accords": [
+      "jasmine",
+      "amber",
+      "woody",
+      "white floral",
+      "warm spicy"
+    ],
+    "moods": [
+      "bold",
+      "mysterious",
+      "sensual"
+    ],
+    "seasons": [
+      "autumn",
+      "winter"
+    ],
+    "intensity": 5,
+    "bestFor": "Evenings and statement wear",
+    "popularityBasis": "UK fragrance retailer bestseller and popularity lists, reviewed August 2026",
+    "retailSource": "https://www.theperfumeshop.com/womens/womens-perfume/womens-bestsellers/c/W30001"
+  },
+  {
+    "id": "W07-lancome-la-vie-est-belle",
+    "slug": "w07-lancome-la-vie-est-belle",
+    "popularityRank": 7,
+    "audience": "Perfume",
+    "brand": "Lancôme",
+    "name": "La Vie Est Belle",
+    "concentration": "EDP",
+    "family": "Floral gourmand",
+    "accords": [
+      "iris",
+      "praline",
+      "vanilla",
+      "fruity",
+      "patchouli"
+    ],
+    "moods": [
+      "warm",
+      "joyful",
+      "sweet"
+    ],
+    "seasons": [
+      "autumn",
+      "winter"
+    ],
+    "intensity": 4,
+    "bestFor": "Celebrations and cosy evenings",
+    "popularityBasis": "UK fragrance retailer bestseller and popularity lists, reviewed August 2026",
+    "retailSource": "https://www.theperfumeshop.com/womens/womens-perfume/womens-bestsellers/c/W30001"
+  },
+  {
+    "id": "W08-yves-saint-laurent-black-opium",
+    "slug": "w08-yves-saint-laurent-black-opium",
+    "popularityRank": 8,
+    "audience": "Perfume",
+    "brand": "Yves Saint Laurent",
+    "name": "Black Opium",
+    "concentration": "EDP",
+    "family": "Amber vanilla gourmand",
+    "accords": [
+      "coffee",
+      "vanilla",
+      "white floral",
+      "sweet",
+      "woody"
+    ],
+    "moods": [
+      "bold",
+      "sensual",
+      "night-out"
+    ],
+    "seasons": [
+      "autumn",
+      "winter"
+    ],
+    "intensity": 4,
+    "bestFor": "Evenings, parties and dates",
+    "popularityBasis": "UK fragrance retailer bestseller and popularity lists, reviewed August 2026",
+    "retailSource": "https://www.theperfumeshop.com/womens/womens-perfume/womens-bestsellers/c/W30001"
+  },
+  {
+    "id": "W09-burberry-goddess",
+    "slug": "w09-burberry-goddess",
+    "popularityRank": 9,
+    "audience": "Perfume",
+    "brand": "Burberry",
+    "name": "Goddess",
+    "concentration": "EDP",
+    "family": "Aromatic vanilla",
+    "accords": [
+      "vanilla",
+      "lavender",
+      "cocoa",
+      "warm spicy",
+      "woody"
+    ],
+    "moods": [
+      "warm",
+      "confident",
+      "comforting"
+    ],
+    "seasons": [
+      "autumn",
+      "winter",
+      "spring"
+    ],
+    "intensity": 4,
+    "bestFor": "Day-to-night and cosy occasions",
+    "popularityBasis": "UK fragrance retailer bestseller and popularity lists, reviewed August 2026",
+    "retailSource": "https://www.theperfumeshop.com/womens/womens-perfume/womens-bestsellers/c/W30001"
+  },
+  {
+    "id": "W10-marc-jacobs-daisy",
+    "slug": "w10-marc-jacobs-daisy",
+    "popularityRank": 10,
+    "audience": "Perfume",
+    "brand": "Marc Jacobs",
+    "name": "Daisy",
+    "concentration": "EDT",
+    "family": "Floral woody musk",
+    "accords": [
+      "violet",
+      "strawberry",
+      "white floral",
+      "musk",
+      "fresh"
+    ],
+    "moods": [
+      "youthful",
+      "bright",
+      "easygoing"
+    ],
+    "seasons": [
+      "spring",
+      "summer"
+    ],
+    "intensity": 2,
+    "bestFor": "Daytime and casual wear",
+    "popularityBasis": "UK fragrance retailer bestseller and popularity lists, reviewed August 2026",
+    "retailSource": "https://www.theperfumeshop.com/womens/womens-perfume/womens-bestsellers/c/W30001"
+  },
+  {
+    "id": "W11-gucci-rush",
+    "slug": "w11-gucci-rush",
+    "popularityRank": 11,
+    "audience": "Perfume",
+    "brand": "Gucci",
+    "name": "Rush",
+    "concentration": "EDT",
+    "family": "Chypre fruity floral",
+    "accords": [
+      "peach",
+      "patchouli",
+      "white floral",
+      "vanilla",
+      "spicy"
+    ],
+    "moods": [
+      "bold",
+      "retro",
+      "sensual"
+    ],
+    "seasons": [
+      "autumn",
+      "winter"
+    ],
+    "intensity": 5,
+    "bestFor": "Parties and statement evenings",
+    "popularityBasis": "UK fragrance retailer bestseller and popularity lists, reviewed August 2026",
+    "retailSource": "https://www.theperfumeshop.com/womens/womens-perfume/womens-bestsellers/c/W30001"
+  },
+  {
+    "id": "W12-rabanne-lady-million",
+    "slug": "w12-rabanne-lady-million",
+    "popularityRank": 12,
+    "audience": "Perfume",
+    "brand": "Rabanne",
+    "name": "Lady Million",
+    "concentration": "EDP",
+    "family": "Floral fruity",
+    "accords": [
+      "honey",
+      "white floral",
+      "raspberry",
+      "citrus",
+      "patchouli"
+    ],
+    "moods": [
+      "glamorous",
+      "bold",
+      "sweet"
+    ],
+    "seasons": [
+      "autumn",
+      "winter",
+      "spring"
+    ],
+    "intensity": 4,
+    "bestFor": "Events and nights out",
+    "popularityBasis": "UK fragrance retailer bestseller and popularity lists, reviewed August 2026",
+    "retailSource": "https://www.theperfumeshop.com/womens/womens-perfume/womens-bestsellers/c/W30001"
+  },
+  {
+    "id": "W13-yves-saint-laurent-libre-berry-crush",
+    "slug": "w13-yves-saint-laurent-libre-berry-crush",
+    "popularityRank": 13,
+    "audience": "Perfume",
+    "brand": "Yves Saint Laurent",
+    "name": "Libre Berry Crush",
+    "concentration": "EDP",
+    "family": "Fruity floral gourmand",
+    "accords": [
+      "berries",
+      "lavender",
+      "vanilla",
+      "floral",
+      "sweet"
+    ],
+    "moods": [
+      "playful",
+      "bold",
+      "modern"
+    ],
+    "seasons": [
+      "spring",
+      "summer",
+      "autumn"
+    ],
+    "intensity": 4,
+    "bestFor": "Social and evening wear",
+    "popularityBasis": "UK fragrance retailer bestseller and popularity lists, reviewed August 2026",
+    "retailSource": "https://www.theperfumeshop.com/womens/womens-perfume/womens-bestsellers/c/W30001"
+  },
+  {
+    "id": "W14-valentino-donna-born-in-roma",
+    "slug": "w14-valentino-donna-born-in-roma",
+    "popularityRank": 14,
+    "audience": "Perfume",
+    "brand": "Valentino",
+    "name": "Donna Born In Roma",
+    "concentration": "EDP",
+    "family": "Amber floral",
+    "accords": [
+      "jasmine",
+      "vanilla",
+      "blackcurrant",
+      "woody",
+      "amber"
+    ],
+    "moods": [
+      "modern",
+      "glamorous",
+      "versatile"
+    ],
+    "seasons": [
+      "spring",
+      "autumn",
+      "winter"
+    ],
+    "intensity": 4,
+    "bestFor": "Day-to-night and dates",
+    "popularityBasis": "UK fragrance retailer bestseller and popularity lists, reviewed August 2026",
+    "retailSource": "https://www.theperfumeshop.com/womens/womens-perfume/womens-bestsellers/c/W30001"
+  },
+  {
+    "id": "W15-prada-paradoxe-intense",
+    "slug": "w15-prada-paradoxe-intense",
+    "popularityRank": 15,
+    "audience": "Perfume",
+    "brand": "Prada",
+    "name": "Paradoxe Intense",
+    "concentration": "EDP Intense",
+    "family": "Amber floral",
+    "accords": [
+      "amber",
+      "vanilla",
+      "white floral",
+      "moss",
+      "musk"
+    ],
+    "moods": [
+      "bold",
+      "modern",
+      "sensual"
+    ],
+    "seasons": [
+      "autumn",
+      "winter"
+    ],
+    "intensity": 5,
+    "bestFor": "Evenings and special occasions",
+    "popularityBasis": "UK fragrance retailer bestseller and popularity lists, reviewed August 2026",
+    "retailSource": "https://www.theperfumeshop.com/womens/womens-perfume/womens-bestsellers/c/W30001"
+  },
+  {
+    "id": "W16-jean-paul-gaultier-scandal",
+    "slug": "w16-jean-paul-gaultier-scandal",
+    "popularityRank": 16,
+    "audience": "Perfume",
+    "brand": "Jean Paul Gaultier",
+    "name": "Scandal",
+    "concentration": "EDP",
+    "family": "Chypre gourmand",
+    "accords": [
+      "honey",
+      "caramel",
+      "white floral",
+      "patchouli",
+      "sweet"
+    ],
+    "moods": [
+      "bold",
+      "playful",
+      "sensual"
+    ],
+    "seasons": [
+      "autumn",
+      "winter"
+    ],
+    "intensity": 5,
+    "bestFor": "Parties and nights out",
+    "popularityBasis": "UK fragrance retailer bestseller and popularity lists, reviewed August 2026",
+    "retailSource": "https://www.theperfumeshop.com/womens/womens-perfume/womens-bestsellers/c/W30001"
+  },
+  {
+    "id": "W17-giorgio-armani-diamonds",
+    "slug": "w17-giorgio-armani-diamonds",
+    "popularityRank": 17,
+    "audience": "Perfume",
+    "brand": "Giorgio Armani",
+    "name": "Diamonds",
+    "concentration": "EDP",
+    "family": "Floral fruity gourmand",
+    "accords": [
+      "lychee",
+      "raspberry",
+      "rose",
+      "vanilla",
+      "amber"
+    ],
+    "moods": [
+      "glamorous",
+      "sparkling",
+      "sweet"
+    ],
+    "seasons": [
+      "spring",
+      "autumn"
+    ],
+    "intensity": 3,
+    "bestFor": "Events and easy evening wear",
+    "popularityBasis": "UK fragrance retailer bestseller and popularity lists, reviewed August 2026",
+    "retailSource": "https://www.theperfumeshop.com/womens/womens-perfume/womens-bestsellers/c/W30001"
+  },
+  {
+    "id": "W18-gucci-bamboo",
+    "slug": "w18-gucci-bamboo",
+    "popularityRank": 18,
+    "audience": "Perfume",
+    "brand": "Gucci",
+    "name": "Bamboo",
+    "concentration": "EDP",
+    "family": "Floral woody",
+    "accords": [
+      "white floral",
+      "citrus",
+      "sandalwood",
+      "vanilla",
+      "amber"
+    ],
+    "moods": [
+      "polished",
+      "clean",
+      "elegant"
+    ],
+    "seasons": [
+      "spring",
+      "summer",
+      "autumn"
+    ],
+    "intensity": 3,
+    "bestFor": "Work and smart daytime",
+    "popularityBasis": "UK fragrance retailer bestseller and popularity lists, reviewed August 2026",
+    "retailSource": "https://www.theperfumeshop.com/womens/womens-perfume/womens-bestsellers/c/W30001"
+  },
+  {
+    "id": "W19-carolina-herrera-good-girl-blush",
+    "slug": "w19-carolina-herrera-good-girl-blush",
+    "popularityRank": 19,
+    "audience": "Perfume",
+    "brand": "Carolina Herrera",
+    "name": "Good Girl Blush",
+    "concentration": "EDP",
+    "family": "Floral vanilla",
+    "accords": [
+      "peony",
+      "vanilla",
+      "citrus",
+      "ylang-ylang",
+      "powdery"
+    ],
+    "moods": [
+      "romantic",
+      "soft",
+      "modern"
+    ],
+    "seasons": [
+      "spring",
+      "summer"
+    ],
+    "intensity": 3,
+    "bestFor": "Dates and daytime occasions",
+    "popularityBasis": "UK fragrance retailer bestseller and popularity lists, reviewed August 2026",
+    "retailSource": "https://www.theperfumeshop.com/womens/womens-perfume/womens-bestsellers/c/W30001"
+  },
+  {
+    "id": "W20-gucci-flora-gorgeous-gardenia",
+    "slug": "w20-gucci-flora-gorgeous-gardenia",
+    "popularityRank": 20,
+    "audience": "Perfume",
+    "brand": "Gucci",
+    "name": "Flora Gorgeous Gardenia",
+    "concentration": "EDP",
+    "family": "Floral fruity gourmand",
+    "accords": [
+      "gardenia",
+      "pear",
+      "brown sugar",
+      "white floral",
+      "fruity"
+    ],
+    "moods": [
+      "joyful",
+      "feminine",
+      "sweet"
+    ],
+    "seasons": [
+      "spring",
+      "summer",
+      "autumn"
+    ],
+    "intensity": 3,
+    "bestFor": "Daytime, brunch and dates",
+    "popularityBasis": "UK fragrance retailer bestseller and popularity lists, reviewed August 2026",
+    "retailSource": "https://www.theperfumeshop.com/womens/womens-perfume/womens-bestsellers/c/W30001"
+  },
+  {
+    "id": "W21-yves-saint-laurent-libre-intense",
+    "slug": "w21-yves-saint-laurent-libre-intense",
+    "popularityRank": 21,
+    "audience": "Perfume",
+    "brand": "Yves Saint Laurent",
+    "name": "Libre Intense",
+    "concentration": "EDP Intense",
+    "family": "Amber floral",
+    "accords": [
+      "lavender",
+      "orange blossom",
+      "vanilla",
+      "tonka",
+      "amber"
+    ],
+    "moods": [
+      "bold",
+      "polished",
+      "sensual"
+    ],
+    "seasons": [
+      "autumn",
+      "winter"
+    ],
+    "intensity": 5,
+    "bestFor": "Evenings and confident signature wear",
+    "popularityBasis": "UK fragrance retailer bestseller and popularity lists, reviewed August 2026",
+    "retailSource": "https://www.theperfumeshop.com/womens/womens-perfume/womens-bestsellers/c/W30001"
+  },
+  {
+    "id": "W22-chanel-n-5",
+    "slug": "w22-chanel-n-5",
+    "popularityRank": 22,
+    "audience": "Perfume",
+    "brand": "Chanel",
+    "name": "N°5",
+    "concentration": "EDP",
+    "family": "Aldehydic floral",
+    "accords": [
+      "aldehydes",
+      "white floral",
+      "rose",
+      "powdery",
+      "woody"
+    ],
+    "moods": [
+      "classic",
+      "elegant",
+      "formal"
+    ],
+    "seasons": [
+      "autumn",
+      "winter",
+      "spring"
+    ],
+    "intensity": 4,
+    "bestFor": "Formal occasions and timeless signature wear",
+    "popularityBasis": "UK fragrance retailer bestseller and popularity lists, reviewed August 2026",
+    "retailSource": "https://www.theperfumeshop.com/womens/womens-perfume/womens-bestsellers/c/W30001"
+  },
+  {
+    "id": "W23-chanel-coco-mademoiselle-intense",
+    "slug": "w23-chanel-coco-mademoiselle-intense",
+    "popularityRank": 23,
+    "audience": "Perfume",
+    "brand": "Chanel",
+    "name": "Coco Mademoiselle Intense",
+    "concentration": "EDP Intense",
+    "family": "Amber floral",
+    "accords": [
+      "patchouli",
+      "vanilla",
+      "citrus",
+      "rose",
+      "amber"
+    ],
+    "moods": [
+      "polished",
+      "sensual",
+      "luxurious"
+    ],
+    "seasons": [
+      "autumn",
+      "winter"
+    ],
+    "intensity": 5,
+    "bestFor": "Evening and occasion wear",
+    "popularityBasis": "UK fragrance retailer bestseller and popularity lists, reviewed August 2026",
+    "retailSource": "https://www.theperfumeshop.com/womens/womens-perfume/womens-bestsellers/c/W30001"
+  },
+  {
+    "id": "W24-calvin-klein-eternity-moment",
+    "slug": "w24-calvin-klein-eternity-moment",
+    "popularityRank": 24,
+    "audience": "Perfume",
+    "brand": "Calvin Klein",
+    "name": "Eternity Moment",
+    "concentration": "EDP",
+    "family": "Floral",
+    "accords": [
+      "peony",
+      "lychee",
+      "rose",
+      "musk",
+      "fresh"
+    ],
+    "moods": [
+      "romantic",
+      "soft",
+      "clean"
+    ],
+    "seasons": [
+      "spring",
+      "summer"
+    ],
+    "intensity": 2,
+    "bestFor": "Daytime and understated dates",
+    "popularityBasis": "UK fragrance retailer bestseller and popularity lists, reviewed August 2026",
+    "retailSource": "https://www.theperfumeshop.com/womens/womens-perfume/womens-bestsellers/c/W30001"
+  },
+  {
+    "id": "W25-rabanne-olympea",
+    "slug": "w25-rabanne-olympea",
+    "popularityRank": 25,
+    "audience": "Perfume",
+    "brand": "Rabanne",
+    "name": "Olympéa",
+    "concentration": "EDP",
+    "family": "Amber floral",
+    "accords": [
+      "salt",
+      "vanilla",
+      "white floral",
+      "amber",
+      "aquatic"
+    ],
+    "moods": [
+      "sensual",
+      "warm",
+      "distinctive"
+    ],
+    "seasons": [
+      "summer",
+      "autumn",
+      "winter"
+    ],
+    "intensity": 4,
+    "bestFor": "Holidays, evenings and dates",
+    "popularityBasis": "UK fragrance retailer bestseller and popularity lists, reviewed August 2026",
+    "retailSource": "https://www.theperfumeshop.com/womens/womens-perfume/womens-bestsellers/c/W30001"
+  },
+  {
+    "id": "W26-gucci-flora-gorgeous-jasmine",
+    "slug": "w26-gucci-flora-gorgeous-jasmine",
+    "popularityRank": 26,
+    "audience": "Perfume",
+    "brand": "Gucci",
+    "name": "Flora Gorgeous Jasmine",
+    "concentration": "EDP",
+    "family": "Floral",
+    "accords": [
+      "jasmine",
+      "magnolia",
+      "citrus",
+      "sandalwood",
+      "fresh"
+    ],
+    "moods": [
+      "bright",
+      "feminine",
+      "polished"
+    ],
+    "seasons": [
+      "spring",
+      "summer"
+    ],
+    "intensity": 3,
+    "bestFor": "Daytime and smart casual",
+    "popularityBasis": "UK fragrance retailer bestseller and popularity lists, reviewed August 2026",
+    "retailSource": "https://www.theperfumeshop.com/womens/womens-perfume/womens-bestsellers/c/W30001"
+  },
+  {
+    "id": "W27-dior-miss-dior-parfum",
+    "slug": "w27-dior-miss-dior-parfum",
+    "popularityRank": 27,
+    "audience": "Perfume",
+    "brand": "Dior",
+    "name": "Miss Dior Parfum",
+    "concentration": "Parfum",
+    "family": "Floral fruity woody",
+    "accords": [
+      "jasmine",
+      "strawberry",
+      "amberwood",
+      "fruity",
+      "woody"
+    ],
+    "moods": [
+      "romantic",
+      "luxurious",
+      "modern"
+    ],
+    "seasons": [
+      "spring",
+      "autumn",
+      "winter"
+    ],
+    "intensity": 4,
+    "bestFor": "Dates and special occasions",
+    "popularityBasis": "UK fragrance retailer bestseller and popularity lists, reviewed August 2026",
+    "retailSource": "https://www.theperfumeshop.com/womens/womens-perfume/womens-bestsellers/c/W30001"
+  },
+  {
+    "id": "W28-kylie-jenner-cosmic",
+    "slug": "w28-kylie-jenner-cosmic",
+    "popularityRank": 28,
+    "audience": "Perfume",
+    "brand": "Kylie Jenner",
+    "name": "Cosmic",
+    "concentration": "EDP",
+    "family": "Amber floral",
+    "accords": [
+      "pear",
+      "jasmine",
+      "vanilla",
+      "amber",
+      "musk"
+    ],
+    "moods": [
+      "modern",
+      "easygoing",
+      "sweet"
+    ],
+    "seasons": [
+      "spring",
+      "autumn"
+    ],
+    "intensity": 3,
+    "bestFor": "Everyday and casual evenings",
+    "popularityBasis": "UK fragrance retailer bestseller and popularity lists, reviewed August 2026",
+    "retailSource": "https://www.theperfumeshop.com/womens/womens-perfume/womens-bestsellers/c/W30001"
+  },
+  {
+    "id": "W29-tom-ford-black-orchid",
+    "slug": "w29-tom-ford-black-orchid",
+    "popularityRank": 29,
+    "audience": "Perfume",
+    "brand": "Tom Ford",
+    "name": "Black Orchid",
+    "concentration": "EDP",
+    "family": "Amber floral",
+    "accords": [
+      "truffle",
+      "dark chocolate",
+      "patchouli",
+      "floral",
+      "earthy"
+    ],
+    "moods": [
+      "mysterious",
+      "bold",
+      "luxurious"
+    ],
+    "seasons": [
+      "autumn",
+      "winter"
+    ],
+    "intensity": 5,
+    "bestFor": "Formal evenings and statement wear",
+    "popularityBasis": "UK fragrance retailer bestseller and popularity lists, reviewed August 2026",
+    "retailSource": "https://www.theperfumeshop.com/womens/womens-perfume/womens-bestsellers/c/W30001"
+  },
+  {
+    "id": "W30-jean-paul-gaultier-la-belle-paradise-garden",
+    "slug": "w30-jean-paul-gaultier-la-belle-paradise-garden",
+    "popularityRank": 30,
+    "audience": "Perfume",
+    "brand": "Jean Paul Gaultier",
+    "name": "La Belle Paradise Garden",
+    "concentration": "EDP",
+    "family": "Floral fruity gourmand",
+    "accords": [
+      "lotus",
+      "fig",
+      "vanilla",
+      "coconut",
+      "floral"
+    ],
+    "moods": [
+      "playful",
+      "tropical",
+      "sensual"
+    ],
+    "seasons": [
+      "spring",
+      "summer"
+    ],
+    "intensity": 4,
+    "bestFor": "Holidays and summer evenings",
+    "popularityBasis": "UK fragrance retailer bestseller and popularity lists, reviewed August 2026",
+    "retailSource": "https://www.theperfumeshop.com/womens/womens-perfume/womens-bestsellers/c/W30001"
+  },
+  {
+    "id": "W31-roberto-cavalli-roberto-cavalli",
+    "slug": "w31-roberto-cavalli-roberto-cavalli",
+    "popularityRank": 31,
+    "audience": "Perfume",
+    "brand": "Roberto Cavalli",
+    "name": "Roberto Cavalli",
+    "concentration": "EDP",
+    "family": "Amber floral",
+    "accords": [
+      "orange blossom",
+      "vanilla",
+      "benzoin",
+      "pink pepper",
+      "amber"
+    ],
+    "moods": [
+      "glamorous",
+      "warm",
+      "bold"
+    ],
+    "seasons": [
+      "autumn",
+      "winter"
+    ],
+    "intensity": 4,
+    "bestFor": "Evenings and occasion wear",
+    "popularityBasis": "UK fragrance retailer bestseller and popularity lists, reviewed August 2026",
+    "retailSource": "https://www.theperfumeshop.com/womens/womens-perfume/womens-bestsellers/c/W30001"
+  },
+  {
+    "id": "W32-giorgio-armani-si",
+    "slug": "w32-giorgio-armani-si",
+    "popularityRank": 32,
+    "audience": "Perfume",
+    "brand": "Giorgio Armani",
+    "name": "Sì",
+    "concentration": "EDP",
+    "family": "Chypre fruity",
+    "accords": [
+      "blackcurrant",
+      "rose",
+      "vanilla",
+      "patchouli",
+      "woody"
+    ],
+    "moods": [
+      "polished",
+      "confident",
+      "elegant"
+    ],
+    "seasons": [
+      "spring",
+      "autumn",
+      "winter"
+    ],
+    "intensity": 4,
+    "bestFor": "Work, dinners and signature wear",
+    "popularityBasis": "UK fragrance retailer bestseller and popularity lists, reviewed August 2026",
+    "retailSource": "https://www.theperfumeshop.com/womens/womens-perfume/womens-bestsellers/c/W30001"
+  },
+  {
+    "id": "W33-jean-paul-gaultier-gaultier-divine",
+    "slug": "w33-jean-paul-gaultier-gaultier-divine",
+    "popularityRank": 33,
+    "audience": "Perfume",
+    "brand": "Jean Paul Gaultier",
+    "name": "Gaultier Divine",
+    "concentration": "EDP",
+    "family": "Floral gourmand",
+    "accords": [
+      "white floral",
+      "salt",
+      "meringue",
+      "marine",
+      "sweet"
+    ],
+    "moods": [
+      "bold",
+      "radiant",
+      "sensual"
+    ],
+    "seasons": [
+      "spring",
+      "summer",
+      "autumn"
+    ],
+    "intensity": 4,
+    "bestFor": "Events and evenings",
+    "popularityBasis": "UK fragrance retailer bestseller and popularity lists, reviewed August 2026",
+    "retailSource": "https://www.theperfumeshop.com/womens/womens-perfume/womens-bestsellers/c/W30001"
+  },
+  {
+    "id": "W34-jimmy-choo-flash",
+    "slug": "w34-jimmy-choo-flash",
+    "popularityRank": 34,
+    "audience": "Perfume",
+    "brand": "Jimmy Choo",
+    "name": "Flash",
+    "concentration": "EDP",
+    "family": "Floral",
+    "accords": [
+      "tuberose",
+      "jasmine",
+      "strawberry",
+      "white floral",
+      "woody"
+    ],
+    "moods": [
+      "glamorous",
+      "bright",
+      "party-ready"
+    ],
+    "seasons": [
+      "spring",
+      "summer",
+      "autumn"
+    ],
+    "intensity": 4,
+    "bestFor": "Parties and evenings",
+    "popularityBasis": "UK fragrance retailer bestseller and popularity lists, reviewed August 2026",
+    "retailSource": "https://www.theperfumeshop.com/womens/womens-perfume/womens-bestsellers/c/W30001"
+  },
+  {
+    "id": "W35-lancome-la-vie-est-belle-vanille-nude",
+    "slug": "w35-lancome-la-vie-est-belle-vanille-nude",
+    "popularityRank": 35,
+    "audience": "Perfume",
+    "brand": "Lancôme",
+    "name": "La Vie Est Belle Vanille Nude",
+    "concentration": "EDP",
+    "family": "Vanilla gourmand floral",
+    "accords": [
+      "vanilla",
+      "jasmine",
+      "musk",
+      "sweet",
+      "powdery"
+    ],
+    "moods": [
+      "warm",
+      "comforting",
+      "sensual"
+    ],
+    "seasons": [
+      "autumn",
+      "winter"
+    ],
+    "intensity": 4,
+    "bestFor": "Cosy dates and evenings",
+    "popularityBasis": "UK fragrance retailer bestseller and popularity lists, reviewed August 2026",
+    "retailSource": "https://www.theperfumeshop.com/womens/womens-perfume/womens-bestsellers/c/W30001"
+  },
+  {
+    "id": "W36-chanel-chance-eau-tendre",
+    "slug": "w36-chanel-chance-eau-tendre",
+    "popularityRank": 36,
+    "audience": "Perfume",
+    "brand": "Chanel",
+    "name": "Chance Eau Tendre",
+    "concentration": "EDP",
+    "family": "Floral fruity",
+    "accords": [
+      "quince",
+      "rose",
+      "jasmine",
+      "musk",
+      "fruity"
+    ],
+    "moods": [
+      "romantic",
+      "polished",
+      "soft"
+    ],
+    "seasons": [
+      "spring",
+      "summer"
+    ],
+    "intensity": 3,
+    "bestFor": "Daytime, work and weddings",
+    "popularityBasis": "UK fragrance retailer bestseller and popularity lists, reviewed August 2026",
+    "retailSource": "https://www.theperfumeshop.com/womens/womens-perfume/womens-bestsellers/c/W30001"
+  },
+  {
+    "id": "W37-calvin-klein-eternity",
+    "slug": "w37-calvin-klein-eternity",
+    "popularityRank": 37,
+    "audience": "Perfume",
+    "brand": "Calvin Klein",
+    "name": "Eternity",
+    "concentration": "EDP",
+    "family": "Floral",
+    "accords": [
+      "green",
+      "white floral",
+      "rose",
+      "powdery",
+      "fresh"
+    ],
+    "moods": [
+      "classic",
+      "clean",
+      "romantic"
+    ],
+    "seasons": [
+      "spring",
+      "summer"
+    ],
+    "intensity": 3,
+    "bestFor": "Work and daytime occasions",
+    "popularityBasis": "UK fragrance retailer bestseller and popularity lists, reviewed August 2026",
+    "retailSource": "https://www.theperfumeshop.com/womens/womens-perfume/womens-bestsellers/c/W30001"
+  },
+  {
+    "id": "W38-jimmy-choo-i-want-choo",
+    "slug": "w38-jimmy-choo-i-want-choo",
+    "popularityRank": 38,
+    "audience": "Perfume",
+    "brand": "Jimmy Choo",
+    "name": "I Want Choo",
+    "concentration": "EDP",
+    "family": "Amber floral",
+    "accords": [
+      "peach",
+      "vanilla",
+      "jasmine",
+      "red lily",
+      "sweet"
+    ],
+    "moods": [
+      "glamorous",
+      "playful",
+      "confident"
+    ],
+    "seasons": [
+      "autumn",
+      "winter",
+      "spring"
+    ],
+    "intensity": 4,
+    "bestFor": "Parties and date nights",
+    "popularityBasis": "UK fragrance retailer bestseller and popularity lists, reviewed August 2026",
+    "retailSource": "https://www.theperfumeshop.com/womens/womens-perfume/womens-bestsellers/c/W30001"
+  },
+  {
+    "id": "W39-mugler-angel",
+    "slug": "w39-mugler-angel",
+    "popularityRank": 39,
+    "audience": "Perfume",
+    "brand": "Mugler",
+    "name": "Angel",
+    "concentration": "EDP",
+    "family": "Amber gourmand",
+    "accords": [
+      "caramel",
+      "chocolate",
+      "patchouli",
+      "honey",
+      "fruity"
+    ],
+    "moods": [
+      "bold",
+      "distinctive",
+      "sweet"
+    ],
+    "seasons": [
+      "autumn",
+      "winter"
+    ],
+    "intensity": 5,
+    "bestFor": "Statement evenings",
+    "popularityBasis": "UK fragrance retailer bestseller and popularity lists, reviewed August 2026",
+    "retailSource": "https://www.theperfumeshop.com/womens/womens-perfume/womens-bestsellers/c/W30001"
+  },
+  {
+    "id": "W40-givenchy-l-interdit",
+    "slug": "w40-givenchy-l-interdit",
+    "popularityRank": 40,
+    "audience": "Perfume",
+    "brand": "Givenchy",
+    "name": "L'Interdit",
+    "concentration": "EDP",
+    "family": "Amber floral",
+    "accords": [
+      "tuberose",
+      "orange blossom",
+      "patchouli",
+      "grape",
+      "woody"
+    ],
+    "moods": [
+      "bold",
+      "elegant",
+      "sensual"
+    ],
+    "seasons": [
+      "autumn",
+      "winter",
+      "spring"
+    ],
+    "intensity": 4,
+    "bestFor": "Evenings and smart occasions",
+    "popularityBasis": "UK fragrance retailer bestseller and popularity lists, reviewed August 2026",
+    "retailSource": "https://www.theperfumeshop.com/womens/womens-perfume/womens-bestsellers/c/W30001"
+  },
+  {
+    "id": "W41-dior-j-adore",
+    "slug": "w41-dior-j-adore",
+    "popularityRank": 41,
+    "audience": "Perfume",
+    "brand": "Dior",
+    "name": "J'adore",
+    "concentration": "EDP",
+    "family": "Floral fruity",
+    "accords": [
+      "jasmine",
+      "ylang-ylang",
+      "pear",
+      "rose",
+      "white floral"
+    ],
+    "moods": [
+      "elegant",
+      "radiant",
+      "classic"
+    ],
+    "seasons": [
+      "spring",
+      "summer",
+      "autumn"
+    ],
+    "intensity": 4,
+    "bestFor": "Occasions and polished daytime",
+    "popularityBasis": "UK fragrance retailer bestseller and popularity lists, reviewed August 2026",
+    "retailSource": "https://www.theperfumeshop.com/womens/womens-perfume/womens-bestsellers/c/W30001"
+  },
+  {
+    "id": "W42-gucci-bamboo",
+    "slug": "w42-gucci-bamboo",
+    "popularityRank": 42,
+    "audience": "Perfume",
+    "brand": "Gucci",
+    "name": "Bamboo",
+    "concentration": "EDT",
+    "family": "Floral citrus",
+    "accords": [
+      "citrus",
+      "white floral",
+      "ylang-ylang",
+      "vanilla",
+      "woody"
+    ],
+    "moods": [
+      "clean",
+      "bright",
+      "polished"
+    ],
+    "seasons": [
+      "spring",
+      "summer"
+    ],
+    "intensity": 2,
+    "bestFor": "Work and warm-weather daytime",
+    "popularityBasis": "UK fragrance retailer bestseller and popularity lists, reviewed August 2026",
+    "retailSource": "https://www.theperfumeshop.com/womens/womens-perfume/womens-bestsellers/c/W30001"
+  },
+  {
+    "id": "W43-calvin-klein-euphoria",
+    "slug": "w43-calvin-klein-euphoria",
+    "popularityRank": 43,
+    "audience": "Perfume",
+    "brand": "Calvin Klein",
+    "name": "Euphoria",
+    "concentration": "EDP",
+    "family": "Amber floral",
+    "accords": [
+      "pomegranate",
+      "orchid",
+      "amber",
+      "mahogany",
+      "violet"
+    ],
+    "moods": [
+      "sensual",
+      "mysterious",
+      "warm"
+    ],
+    "seasons": [
+      "autumn",
+      "winter"
+    ],
+    "intensity": 4,
+    "bestFor": "Evenings and dates",
+    "popularityBasis": "UK fragrance retailer bestseller and popularity lists, reviewed August 2026",
+    "retailSource": "https://www.theperfumeshop.com/womens/womens-perfume/womens-bestsellers/c/W30001"
+  },
+  {
+    "id": "W44-ariana-grande-cloud",
+    "slug": "w44-ariana-grande-cloud",
+    "popularityRank": 44,
+    "audience": "Perfume",
+    "brand": "Ariana Grande",
+    "name": "Cloud",
+    "concentration": "EDP",
+    "family": "Floral fruity gourmand",
+    "accords": [
+      "coconut",
+      "praline",
+      "lavender",
+      "musk",
+      "sweet"
+    ],
+    "moods": [
+      "playful",
+      "comforting",
+      "modern"
+    ],
+    "seasons": [
+      "autumn",
+      "winter",
+      "spring"
+    ],
+    "intensity": 3,
+    "bestFor": "Casual wear and social occasions",
+    "popularityBasis": "UK fragrance retailer bestseller and popularity lists, reviewed August 2026",
+    "retailSource": "https://www.theperfumeshop.com/womens/womens-perfume/womens-bestsellers/c/W30001"
+  },
+  {
+    "id": "W45-hugo-boss-boss-femme",
+    "slug": "w45-hugo-boss-boss-femme",
+    "popularityRank": 45,
+    "audience": "Perfume",
+    "brand": "Hugo Boss",
+    "name": "Boss Femme",
+    "concentration": "EDP",
+    "family": "Floral fruity",
+    "accords": [
+      "blackcurrant",
+      "freesia",
+      "jasmine",
+      "rose",
+      "musk"
+    ],
+    "moods": [
+      "soft",
+      "romantic",
+      "polished"
+    ],
+    "seasons": [
+      "spring",
+      "summer",
+      "autumn"
+    ],
+    "intensity": 3,
+    "bestFor": "Work and daytime dates",
+    "popularityBasis": "UK fragrance retailer bestseller and popularity lists, reviewed August 2026",
+    "retailSource": "https://www.theperfumeshop.com/womens/womens-perfume/womens-bestsellers/c/W30001"
+  },
+  {
+    "id": "W46-marc-jacobs-perfect-intense",
+    "slug": "w46-marc-jacobs-perfect-intense",
+    "popularityRank": 46,
+    "audience": "Perfume",
+    "brand": "Marc Jacobs",
+    "name": "Perfect Intense",
+    "concentration": "EDP Intense",
+    "family": "Amber floral",
+    "accords": [
+      "almond",
+      "jasmine",
+      "sandalwood",
+      "sweet",
+      "woody"
+    ],
+    "moods": [
+      "warm",
+      "modern",
+      "confident"
+    ],
+    "seasons": [
+      "autumn",
+      "winter"
+    ],
+    "intensity": 4,
+    "bestFor": "Evenings and cool-weather daytime",
+    "popularityBasis": "UK fragrance retailer bestseller and popularity lists, reviewed August 2026",
+    "retailSource": "https://www.theperfumeshop.com/womens/womens-perfume/womens-bestsellers/c/W30001"
+  },
+  {
+    "id": "W47-giorgio-armani-because-it-s-you",
+    "slug": "w47-giorgio-armani-because-it-s-you",
+    "popularityRank": 47,
+    "audience": "Perfume",
+    "brand": "Giorgio Armani",
+    "name": "Because It's You",
+    "concentration": "EDP",
+    "family": "Floral fruity vanilla",
+    "accords": [
+      "raspberry",
+      "vanilla",
+      "rose",
+      "musk",
+      "amber"
+    ],
+    "moods": [
+      "romantic",
+      "sweet",
+      "playful"
+    ],
+    "seasons": [
+      "spring",
+      "autumn",
+      "winter"
+    ],
+    "intensity": 4,
+    "bestFor": "Dates and casual evenings",
+    "popularityBasis": "UK fragrance retailer bestseller and popularity lists, reviewed August 2026",
+    "retailSource": "https://www.theperfumeshop.com/womens/womens-perfume/womens-bestsellers/c/W30001"
+  },
+  {
+    "id": "W48-marc-jacobs-daisy-wild",
+    "slug": "w48-marc-jacobs-daisy-wild",
+    "popularityRank": 48,
+    "audience": "Perfume",
+    "brand": "Marc Jacobs",
+    "name": "Daisy Wild",
+    "concentration": "EDP",
+    "family": "Floral fruity",
+    "accords": [
+      "banana blossom",
+      "jasmine",
+      "vetiver",
+      "green",
+      "fruity"
+    ],
+    "moods": [
+      "bright",
+      "playful",
+      "modern"
+    ],
+    "seasons": [
+      "spring",
+      "summer"
+    ],
+    "intensity": 3,
+    "bestFor": "Daytime and holidays",
+    "popularityBasis": "UK fragrance retailer bestseller and popularity lists, reviewed August 2026",
+    "retailSource": "https://www.theperfumeshop.com/womens/womens-perfume/womens-bestsellers/c/W30001"
+  },
+  {
+    "id": "W49-marc-jacobs-perfect",
+    "slug": "w49-marc-jacobs-perfect",
+    "popularityRank": 49,
+    "audience": "Perfume",
+    "brand": "Marc Jacobs",
+    "name": "Perfect",
+    "concentration": "EDP",
+    "family": "Floral",
+    "accords": [
+      "rhubarb",
+      "daffodil",
+      "almond milk",
+      "cashmeran",
+      "fresh"
+    ],
+    "moods": [
+      "quirky",
+      "bright",
+      "easygoing"
+    ],
+    "seasons": [
+      "spring",
+      "summer",
+      "autumn"
+    ],
+    "intensity": 3,
+    "bestFor": "Everyday and creative settings",
+    "popularityBasis": "UK fragrance retailer bestseller and popularity lists, reviewed August 2026",
+    "retailSource": "https://www.theperfumeshop.com/womens/womens-perfume/womens-bestsellers/c/W30001"
+  },
+  {
+    "id": "W50-chloe-chloe",
+    "slug": "w50-chloe-chloe",
+    "popularityRank": 50,
+    "audience": "Perfume",
+    "brand": "Chloé",
+    "name": "Chloé",
+    "concentration": "EDP",
+    "family": "Floral",
+    "accords": [
+      "rose",
+      "peony",
+      "lychee",
+      "amber",
+      "powdery"
+    ],
+    "moods": [
+      "romantic",
+      "elegant",
+      "clean"
+    ],
+    "seasons": [
+      "spring",
+      "summer",
+      "autumn"
+    ],
+    "intensity": 3,
+    "bestFor": "Work, weddings and daytime",
+    "popularityBasis": "UK fragrance retailer bestseller and popularity lists, reviewed August 2026",
+    "retailSource": "https://www.theperfumeshop.com/womens/womens-perfume/womens-bestsellers/c/W30001"
+  },
+  {
+    "id": "M01-dior-sauvage",
+    "slug": "m01-dior-sauvage",
+    "popularityRank": 1,
+    "audience": "Aftershave",
+    "brand": "Dior",
+    "name": "Sauvage",
+    "concentration": "EDP",
+    "family": "Aromatic fougère",
+    "accords": [
+      "bergamot",
+      "pepper",
+      "ambroxan",
+      "lavender",
+      "woody"
+    ],
+    "moods": [
+      "confident",
+      "versatile",
+      "bold"
+    ],
+    "seasons": [
+      "spring",
+      "summer",
+      "autumn",
+      "winter"
+    ],
+    "intensity": 4,
+    "bestFor": "Everyday, nights out and gifting",
+    "popularityBasis": "UK fragrance retailer bestseller and popularity lists, reviewed August 2026",
+    "retailSource": "https://www.theperfumeshop.com/mens/mens-fragrance/mens-bestsellers/c/M30001"
+  },
+  {
+    "id": "M02-rabanne-1-million-lucky",
+    "slug": "m02-rabanne-1-million-lucky",
+    "popularityRank": 2,
+    "audience": "Aftershave",
+    "brand": "Rabanne",
+    "name": "1 Million Lucky",
+    "concentration": "EDT",
+    "family": "Woody gourmand",
+    "accords": [
+      "plum",
+      "hazelnut",
+      "honey",
+      "cedar",
+      "amber"
+    ],
+    "moods": [
+      "playful",
+      "sweet",
+      "night-out"
+    ],
+    "seasons": [
+      "autumn",
+      "winter"
+    ],
+    "intensity": 4,
+    "bestFor": "Dates and nights out",
+    "popularityBasis": "UK fragrance retailer bestseller and popularity lists, reviewed August 2026",
+    "retailSource": "https://www.theperfumeshop.com/mens/mens-fragrance/mens-bestsellers/c/M30001"
+  },
+  {
+    "id": "M03-jean-paul-gaultier-le-male-le-parfum",
+    "slug": "m03-jean-paul-gaultier-le-male-le-parfum",
+    "popularityRank": 3,
+    "audience": "Aftershave",
+    "brand": "Jean Paul Gaultier",
+    "name": "Le Male Le Parfum",
+    "concentration": "EDP",
+    "family": "Amber spicy",
+    "accords": [
+      "cardamom",
+      "lavender",
+      "vanilla",
+      "iris",
+      "woody"
+    ],
+    "moods": [
+      "sensual",
+      "polished",
+      "warm"
+    ],
+    "seasons": [
+      "autumn",
+      "winter"
+    ],
+    "intensity": 5,
+    "bestFor": "Dates and evening occasions",
+    "popularityBasis": "UK fragrance retailer bestseller and popularity lists, reviewed August 2026",
+    "retailSource": "https://www.theperfumeshop.com/mens/mens-fragrance/mens-bestsellers/c/M30001"
+  },
+  {
+    "id": "M04-chanel-bleu-de-chanel",
+    "slug": "m04-chanel-bleu-de-chanel",
+    "popularityRank": 4,
+    "audience": "Aftershave",
+    "brand": "Chanel",
+    "name": "Bleu de Chanel",
+    "concentration": "EDP",
+    "family": "Woody aromatic",
+    "accords": [
+      "citrus",
+      "incense",
+      "ginger",
+      "cedar",
+      "amber"
+    ],
+    "moods": [
+      "polished",
+      "versatile",
+      "confident"
+    ],
+    "seasons": [
+      "spring",
+      "summer",
+      "autumn",
+      "winter"
+    ],
+    "intensity": 4,
+    "bestFor": "Work, events and signature wear",
+    "popularityBasis": "UK fragrance retailer bestseller and popularity lists, reviewed August 2026",
+    "retailSource": "https://www.theperfumeshop.com/mens/mens-fragrance/mens-bestsellers/c/M30001"
+  },
+  {
+    "id": "M05-prada-paradigme",
+    "slug": "m05-prada-paradigme",
+    "popularityRank": 5,
+    "audience": "Aftershave",
+    "brand": "Prada",
+    "name": "Paradigme",
+    "concentration": "EDP",
+    "family": "Amber woody",
+    "accords": [
+      "bergamot",
+      "geranium",
+      "benzoin",
+      "woody",
+      "musk"
+    ],
+    "moods": [
+      "modern",
+      "polished",
+      "versatile"
+    ],
+    "seasons": [
+      "spring",
+      "autumn",
+      "winter"
+    ],
+    "intensity": 4,
+    "bestFor": "Work to evening",
+    "popularityBasis": "UK fragrance retailer bestseller and popularity lists, reviewed August 2026",
+    "retailSource": "https://www.theperfumeshop.com/mens/mens-fragrance/mens-bestsellers/c/M30001"
+  },
+  {
+    "id": "M06-hugo-boss-boss-bottled-night",
+    "slug": "m06-hugo-boss-boss-bottled-night",
+    "popularityRank": 6,
+    "audience": "Aftershave",
+    "brand": "Hugo Boss",
+    "name": "Boss Bottled Night",
+    "concentration": "EDT",
+    "family": "Woody aromatic",
+    "accords": [
+      "violet leaf",
+      "lavender",
+      "birch",
+      "woody",
+      "musk"
+    ],
+    "moods": [
+      "confident",
+      "clean",
+      "night-out"
+    ],
+    "seasons": [
+      "autumn",
+      "winter",
+      "spring"
+    ],
+    "intensity": 3,
+    "bestFor": "Evening and smart casual",
+    "popularityBasis": "UK fragrance retailer bestseller and popularity lists, reviewed August 2026",
+    "retailSource": "https://www.theperfumeshop.com/mens/mens-fragrance/mens-bestsellers/c/M30001"
+  },
+  {
+    "id": "M07-rabanne-invictus-victory-elixir",
+    "slug": "m07-rabanne-invictus-victory-elixir",
+    "popularityRank": 7,
+    "audience": "Aftershave",
+    "brand": "Rabanne",
+    "name": "Invictus Victory Elixir",
+    "concentration": "EDP",
+    "family": "Amber woody gourmand",
+    "accords": [
+      "vanilla",
+      "incense",
+      "tonka",
+      "amber",
+      "woody"
+    ],
+    "moods": [
+      "bold",
+      "sweet",
+      "powerful"
+    ],
+    "seasons": [
+      "autumn",
+      "winter"
+    ],
+    "intensity": 5,
+    "bestFor": "Nights out and cold weather",
+    "popularityBasis": "UK fragrance retailer bestseller and popularity lists, reviewed August 2026",
+    "retailSource": "https://www.theperfumeshop.com/mens/mens-fragrance/mens-bestsellers/c/M30001"
+  },
+  {
+    "id": "M08-versace-eros",
+    "slug": "m08-versace-eros",
+    "popularityRank": 8,
+    "audience": "Aftershave",
+    "brand": "Versace",
+    "name": "Eros",
+    "concentration": "EDP",
+    "family": "Amber woody",
+    "accords": [
+      "mint",
+      "apple",
+      "vanilla",
+      "tonka",
+      "woody"
+    ],
+    "moods": [
+      "bold",
+      "sweet",
+      "night-out"
+    ],
+    "seasons": [
+      "autumn",
+      "winter",
+      "spring"
+    ],
+    "intensity": 5,
+    "bestFor": "Clubs, dates and evening wear",
+    "popularityBasis": "UK fragrance retailer bestseller and popularity lists, reviewed August 2026",
+    "retailSource": "https://www.theperfumeshop.com/mens/mens-fragrance/mens-bestsellers/c/M30001"
+  },
+  {
+    "id": "M09-carolina-herrera-bad-boy",
+    "slug": "m09-carolina-herrera-bad-boy",
+    "popularityRank": 9,
+    "audience": "Aftershave",
+    "brand": "Carolina Herrera",
+    "name": "Bad Boy",
+    "concentration": "EDT",
+    "family": "Amber spicy",
+    "accords": [
+      "pepper",
+      "tonka",
+      "cocoa",
+      "cedar",
+      "amber"
+    ],
+    "moods": [
+      "playful",
+      "bold",
+      "warm"
+    ],
+    "seasons": [
+      "autumn",
+      "winter"
+    ],
+    "intensity": 4,
+    "bestFor": "Dates and nights out",
+    "popularityBasis": "UK fragrance retailer bestseller and popularity lists, reviewed August 2026",
+    "retailSource": "https://www.theperfumeshop.com/mens/mens-fragrance/mens-bestsellers/c/M30001"
+  },
+  {
+    "id": "M10-dior-sauvage-elixir",
+    "slug": "m10-dior-sauvage-elixir",
+    "popularityRank": 10,
+    "audience": "Aftershave",
+    "brand": "Dior",
+    "name": "Sauvage Elixir",
+    "concentration": "Elixir",
+    "family": "Aromatic spicy",
+    "accords": [
+      "cinnamon",
+      "nutmeg",
+      "lavender",
+      "liquorice",
+      "woody"
+    ],
+    "moods": [
+      "powerful",
+      "mature",
+      "bold"
+    ],
+    "seasons": [
+      "autumn",
+      "winter"
+    ],
+    "intensity": 5,
+    "bestFor": "Statement evenings and formal events",
+    "popularityBasis": "UK fragrance retailer bestseller and popularity lists, reviewed August 2026",
+    "retailSource": "https://www.theperfumeshop.com/mens/mens-fragrance/mens-bestsellers/c/M30001"
+  },
+  {
+    "id": "M11-montblanc-explorer",
+    "slug": "m11-montblanc-explorer",
+    "popularityRank": 11,
+    "audience": "Aftershave",
+    "brand": "Montblanc",
+    "name": "Explorer",
+    "concentration": "EDP",
+    "family": "Woody aromatic",
+    "accords": [
+      "bergamot",
+      "leather",
+      "vetiver",
+      "patchouli",
+      "woody"
+    ],
+    "moods": [
+      "adventurous",
+      "versatile",
+      "confident"
+    ],
+    "seasons": [
+      "spring",
+      "summer",
+      "autumn"
+    ],
+    "intensity": 4,
+    "bestFor": "Everyday and travel",
+    "popularityBasis": "UK fragrance retailer bestseller and popularity lists, reviewed August 2026",
+    "retailSource": "https://www.theperfumeshop.com/mens/mens-fragrance/mens-bestsellers/c/M30001"
+  },
+  {
+    "id": "M12-emporio-armani-stronger-with-you",
+    "slug": "m12-emporio-armani-stronger-with-you",
+    "popularityRank": 12,
+    "audience": "Aftershave",
+    "brand": "Emporio Armani",
+    "name": "Stronger With You",
+    "concentration": "EDT",
+    "family": "Aromatic gourmand",
+    "accords": [
+      "chestnut",
+      "vanilla",
+      "cardamom",
+      "sage",
+      "amber"
+    ],
+    "moods": [
+      "warm",
+      "romantic",
+      "sweet"
+    ],
+    "seasons": [
+      "autumn",
+      "winter"
+    ],
+    "intensity": 4,
+    "bestFor": "Dates and cosy evenings",
+    "popularityBasis": "UK fragrance retailer bestseller and popularity lists, reviewed August 2026",
+    "retailSource": "https://www.theperfumeshop.com/mens/mens-fragrance/mens-bestsellers/c/M30001"
+  },
+  {
+    "id": "M13-dior-sauvage",
+    "slug": "m13-dior-sauvage",
+    "popularityRank": 13,
+    "audience": "Aftershave",
+    "brand": "Dior",
+    "name": "Sauvage",
+    "concentration": "EDT",
+    "family": "Aromatic fougère",
+    "accords": [
+      "bergamot",
+      "pepper",
+      "ambroxan",
+      "citrus",
+      "woody"
+    ],
+    "moods": [
+      "fresh",
+      "bold",
+      "versatile"
+    ],
+    "seasons": [
+      "spring",
+      "summer",
+      "autumn"
+    ],
+    "intensity": 4,
+    "bestFor": "Everyday and social occasions",
+    "popularityBasis": "UK fragrance retailer bestseller and popularity lists, reviewed August 2026",
+    "retailSource": "https://www.theperfumeshop.com/mens/mens-fragrance/mens-bestsellers/c/M30001"
+  },
+  {
+    "id": "M14-emporio-armani-stronger-with-you-intensely",
+    "slug": "m14-emporio-armani-stronger-with-you-intensely",
+    "popularityRank": 14,
+    "audience": "Aftershave",
+    "brand": "Emporio Armani",
+    "name": "Stronger With You Intensely",
+    "concentration": "EDP",
+    "family": "Amber gourmand",
+    "accords": [
+      "toffee",
+      "vanilla",
+      "cinnamon",
+      "suede",
+      "amber"
+    ],
+    "moods": [
+      "sweet",
+      "intense",
+      "romantic"
+    ],
+    "seasons": [
+      "autumn",
+      "winter"
+    ],
+    "intensity": 5,
+    "bestFor": "Dates and nights out",
+    "popularityBasis": "UK fragrance retailer bestseller and popularity lists, reviewed August 2026",
+    "retailSource": "https://www.theperfumeshop.com/mens/mens-fragrance/mens-bestsellers/c/M30001"
+  },
+  {
+    "id": "M15-yves-saint-laurent-myslf",
+    "slug": "m15-yves-saint-laurent-myslf",
+    "popularityRank": 15,
+    "audience": "Aftershave",
+    "brand": "Yves Saint Laurent",
+    "name": "MYSLF",
+    "concentration": "EDP",
+    "family": "Aromatic woody",
+    "accords": [
+      "orange blossom",
+      "bergamot",
+      "ambrofix",
+      "woody",
+      "musk"
+    ],
+    "moods": [
+      "modern",
+      "clean",
+      "versatile"
+    ],
+    "seasons": [
+      "spring",
+      "summer",
+      "autumn"
+    ],
+    "intensity": 4,
+    "bestFor": "Work, dates and everyday",
+    "popularityBasis": "UK fragrance retailer bestseller and popularity lists, reviewed August 2026",
+    "retailSource": "https://www.theperfumeshop.com/mens/mens-fragrance/mens-bestsellers/c/M30001"
+  },
+  {
+    "id": "M16-calvin-klein-ck-be",
+    "slug": "m16-calvin-klein-ck-be",
+    "popularityRank": 16,
+    "audience": "Aftershave",
+    "brand": "Calvin Klein",
+    "name": "CK Be",
+    "concentration": "EDT",
+    "family": "Aromatic musk",
+    "accords": [
+      "lavender",
+      "green",
+      "musk",
+      "citrus",
+      "woody"
+    ],
+    "moods": [
+      "casual",
+      "clean",
+      "soft"
+    ],
+    "seasons": [
+      "spring",
+      "summer"
+    ],
+    "intensity": 2,
+    "bestFor": "Casual daytime",
+    "popularityBasis": "UK fragrance retailer bestseller and popularity lists, reviewed August 2026",
+    "retailSource": "https://www.theperfumeshop.com/mens/mens-fragrance/mens-bestsellers/c/M30001"
+  },
+  {
+    "id": "M17-hugo-boss-boss-bottled-unlimited",
+    "slug": "m17-hugo-boss-boss-bottled-unlimited",
+    "popularityRank": 17,
+    "audience": "Aftershave",
+    "brand": "Hugo Boss",
+    "name": "Boss Bottled Unlimited",
+    "concentration": "EDT",
+    "family": "Aromatic fruity",
+    "accords": [
+      "pineapple",
+      "mint",
+      "violet leaf",
+      "woody",
+      "fresh"
+    ],
+    "moods": [
+      "energetic",
+      "clean",
+      "casual"
+    ],
+    "seasons": [
+      "spring",
+      "summer"
+    ],
+    "intensity": 3,
+    "bestFor": "Daytime and gym-to-social",
+    "popularityBasis": "UK fragrance retailer bestseller and popularity lists, reviewed August 2026",
+    "retailSource": "https://www.theperfumeshop.com/mens/mens-fragrance/mens-bestsellers/c/M30001"
+  },
+  {
+    "id": "M18-tom-ford-ombre-leather",
+    "slug": "m18-tom-ford-ombre-leather",
+    "popularityRank": 18,
+    "audience": "Aftershave",
+    "brand": "Tom Ford",
+    "name": "Ombré Leather",
+    "concentration": "EDP",
+    "family": "Leather",
+    "accords": [
+      "leather",
+      "jasmine",
+      "amber",
+      "patchouli",
+      "spicy"
+    ],
+    "moods": [
+      "bold",
+      "luxurious",
+      "mysterious"
+    ],
+    "seasons": [
+      "autumn",
+      "winter"
+    ],
+    "intensity": 5,
+    "bestFor": "Evenings and statement occasions",
+    "popularityBasis": "UK fragrance retailer bestseller and popularity lists, reviewed August 2026",
+    "retailSource": "https://www.theperfumeshop.com/mens/mens-fragrance/mens-bestsellers/c/M30001"
+  },
+  {
+    "id": "M19-chanel-bleu-de-chanel",
+    "slug": "m19-chanel-bleu-de-chanel",
+    "popularityRank": 19,
+    "audience": "Aftershave",
+    "brand": "Chanel",
+    "name": "Bleu de Chanel",
+    "concentration": "Parfum",
+    "family": "Woody aromatic",
+    "accords": [
+      "citrus",
+      "cedar",
+      "sandalwood",
+      "amber",
+      "aromatic"
+    ],
+    "moods": [
+      "polished",
+      "mature",
+      "luxurious"
+    ],
+    "seasons": [
+      "autumn",
+      "winter",
+      "spring"
+    ],
+    "intensity": 5,
+    "bestFor": "Formal events and signature wear",
+    "popularityBasis": "UK fragrance retailer bestseller and popularity lists, reviewed August 2026",
+    "retailSource": "https://www.theperfumeshop.com/mens/mens-fragrance/mens-bestsellers/c/M30001"
+  },
+  {
+    "id": "M20-valentino-uomo-born-in-roma-intense",
+    "slug": "m20-valentino-uomo-born-in-roma-intense",
+    "popularityRank": 20,
+    "audience": "Aftershave",
+    "brand": "Valentino",
+    "name": "Uomo Born In Roma Intense",
+    "concentration": "EDP",
+    "family": "Amber vanilla",
+    "accords": [
+      "vanilla",
+      "lavender",
+      "vetiver",
+      "amber",
+      "woody"
+    ],
+    "moods": [
+      "modern",
+      "sensual",
+      "night-out"
+    ],
+    "seasons": [
+      "autumn",
+      "winter"
+    ],
+    "intensity": 5,
+    "bestFor": "Dates and evening events",
+    "popularityBasis": "UK fragrance retailer bestseller and popularity lists, reviewed August 2026",
+    "retailSource": "https://www.theperfumeshop.com/mens/mens-fragrance/mens-bestsellers/c/M30001"
+  },
+  {
+    "id": "M21-rabanne-1-million",
+    "slug": "m21-rabanne-1-million",
+    "popularityRank": 21,
+    "audience": "Aftershave",
+    "brand": "Rabanne",
+    "name": "1 Million",
+    "concentration": "EDT",
+    "family": "Woody spicy",
+    "accords": [
+      "cinnamon",
+      "leather",
+      "amber",
+      "citrus",
+      "rose"
+    ],
+    "moods": [
+      "bold",
+      "glamorous",
+      "sweet"
+    ],
+    "seasons": [
+      "autumn",
+      "winter"
+    ],
+    "intensity": 4,
+    "bestFor": "Nights out and gifting",
+    "popularityBasis": "UK fragrance retailer bestseller and popularity lists, reviewed August 2026",
+    "retailSource": "https://www.theperfumeshop.com/mens/mens-fragrance/mens-bestsellers/c/M30001"
+  },
+  {
+    "id": "M22-chanel-allure-homme-sport",
+    "slug": "m22-chanel-allure-homme-sport",
+    "popularityRank": 22,
+    "audience": "Aftershave",
+    "brand": "Chanel",
+    "name": "Allure Homme Sport",
+    "concentration": "EDT",
+    "family": "Citrus aromatic",
+    "accords": [
+      "orange",
+      "marine",
+      "pepper",
+      "tonka",
+      "musk"
+    ],
+    "moods": [
+      "sporty",
+      "polished",
+      "fresh"
+    ],
+    "seasons": [
+      "spring",
+      "summer"
+    ],
+    "intensity": 4,
+    "bestFor": "Daytime, holidays and smart casual",
+    "popularityBasis": "UK fragrance retailer bestseller and popularity lists, reviewed August 2026",
+    "retailSource": "https://www.theperfumeshop.com/mens/mens-fragrance/mens-bestsellers/c/M30001"
+  },
+  {
+    "id": "M23-jean-paul-gaultier-le-male",
+    "slug": "m23-jean-paul-gaultier-le-male",
+    "popularityRank": 23,
+    "audience": "Aftershave",
+    "brand": "Jean Paul Gaultier",
+    "name": "Le Male",
+    "concentration": "EDT",
+    "family": "Amber fougère",
+    "accords": [
+      "lavender",
+      "mint",
+      "vanilla",
+      "cinnamon",
+      "tonka"
+    ],
+    "moods": [
+      "playful",
+      "warm",
+      "iconic"
+    ],
+    "seasons": [
+      "autumn",
+      "winter",
+      "spring"
+    ],
+    "intensity": 4,
+    "bestFor": "Casual evenings and dates",
+    "popularityBasis": "UK fragrance retailer bestseller and popularity lists, reviewed August 2026",
+    "retailSource": "https://www.theperfumeshop.com/mens/mens-fragrance/mens-bestsellers/c/M30001"
+  },
+  {
+    "id": "M24-hugo-boss-the-scent-magnetic",
+    "slug": "m24-hugo-boss-the-scent-magnetic",
+    "popularityRank": 24,
+    "audience": "Aftershave",
+    "brand": "Hugo Boss",
+    "name": "The Scent Magnetic",
+    "concentration": "EDP",
+    "family": "Amber vanilla",
+    "accords": [
+      "maninka",
+      "vanilla",
+      "bran",
+      "amber",
+      "musk"
+    ],
+    "moods": [
+      "sensual",
+      "sweet",
+      "bold"
+    ],
+    "seasons": [
+      "autumn",
+      "winter"
+    ],
+    "intensity": 5,
+    "bestFor": "Dates and evening wear",
+    "popularityBasis": "UK fragrance retailer bestseller and popularity lists, reviewed August 2026",
+    "retailSource": "https://www.theperfumeshop.com/mens/mens-fragrance/mens-bestsellers/c/M30001"
+  },
+  {
+    "id": "M25-dior-fahrenheit",
+    "slug": "m25-dior-fahrenheit",
+    "popularityRank": 25,
+    "audience": "Aftershave",
+    "brand": "Dior",
+    "name": "Fahrenheit",
+    "concentration": "EDT",
+    "family": "Leather aromatic",
+    "accords": [
+      "violet leaf",
+      "leather",
+      "petrol",
+      "nutmeg",
+      "woody"
+    ],
+    "moods": [
+      "distinctive",
+      "mature",
+      "bold"
+    ],
+    "seasons": [
+      "autumn",
+      "winter",
+      "spring"
+    ],
+    "intensity": 5,
+    "bestFor": "Signature and evening wear",
+    "popularityBasis": "UK fragrance retailer bestseller and popularity lists, reviewed August 2026",
+    "retailSource": "https://www.theperfumeshop.com/mens/mens-fragrance/mens-bestsellers/c/M30001"
+  },
+  {
+    "id": "M26-rabanne-invictus",
+    "slug": "m26-rabanne-invictus",
+    "popularityRank": 26,
+    "audience": "Aftershave",
+    "brand": "Rabanne",
+    "name": "Invictus",
+    "concentration": "EDT",
+    "family": "Woody aquatic",
+    "accords": [
+      "marine",
+      "grapefruit",
+      "bay leaf",
+      "amber",
+      "woody"
+    ],
+    "moods": [
+      "sporty",
+      "energetic",
+      "bold"
+    ],
+    "seasons": [
+      "spring",
+      "summer"
+    ],
+    "intensity": 4,
+    "bestFor": "Casual social and warm weather",
+    "popularityBasis": "UK fragrance retailer bestseller and popularity lists, reviewed August 2026",
+    "retailSource": "https://www.theperfumeshop.com/mens/mens-fragrance/mens-bestsellers/c/M30001"
+  },
+  {
+    "id": "M27-yves-saint-laurent-y",
+    "slug": "m27-yves-saint-laurent-y",
+    "popularityRank": 27,
+    "audience": "Aftershave",
+    "brand": "Yves Saint Laurent",
+    "name": "Y",
+    "concentration": "EDP",
+    "family": "Aromatic fougère",
+    "accords": [
+      "apple",
+      "sage",
+      "ginger",
+      "amberwood",
+      "bergamot"
+    ],
+    "moods": [
+      "clean",
+      "confident",
+      "versatile"
+    ],
+    "seasons": [
+      "spring",
+      "summer",
+      "autumn"
+    ],
+    "intensity": 4,
+    "bestFor": "Work, nights out and everyday",
+    "popularityBasis": "UK fragrance retailer bestseller and popularity lists, reviewed August 2026",
+    "retailSource": "https://www.theperfumeshop.com/mens/mens-fragrance/mens-bestsellers/c/M30001"
+  },
+  {
+    "id": "M28-gucci-oud-intense",
+    "slug": "m28-gucci-oud-intense",
+    "popularityRank": 28,
+    "audience": "Aftershave",
+    "brand": "Gucci",
+    "name": "Oud Intense",
+    "concentration": "EDP",
+    "family": "Amber woody oud",
+    "accords": [
+      "oud",
+      "leather",
+      "incense",
+      "amber",
+      "woody"
+    ],
+    "moods": [
+      "luxurious",
+      "dark",
+      "powerful"
+    ],
+    "seasons": [
+      "autumn",
+      "winter"
+    ],
+    "intensity": 5,
+    "bestFor": "Formal evenings and statement wear",
+    "popularityBasis": "UK fragrance retailer bestseller and popularity lists, reviewed August 2026",
+    "retailSource": "https://www.theperfumeshop.com/mens/mens-fragrance/mens-bestsellers/c/M30001"
+  },
+  {
+    "id": "M29-gucci-guilty-essence-pour-homme",
+    "slug": "m29-gucci-guilty-essence-pour-homme",
+    "popularityRank": 29,
+    "audience": "Aftershave",
+    "brand": "Gucci",
+    "name": "Guilty Essence Pour Homme",
+    "concentration": "EDT",
+    "family": "Woody aromatic",
+    "accords": [
+      "lavender",
+      "lemon",
+      "orange blossom",
+      "cedar",
+      "patchouli"
+    ],
+    "moods": [
+      "clean",
+      "polished",
+      "versatile"
+    ],
+    "seasons": [
+      "spring",
+      "summer",
+      "autumn"
+    ],
+    "intensity": 3,
+    "bestFor": "Work and smart casual",
+    "popularityBasis": "UK fragrance retailer bestseller and popularity lists, reviewed August 2026",
+    "retailSource": "https://www.theperfumeshop.com/mens/mens-fragrance/mens-bestsellers/c/M30001"
+  },
+  {
+    "id": "M30-hugo-boss-boss-bottled-absolu",
+    "slug": "m30-hugo-boss-boss-bottled-absolu",
+    "popularityRank": 30,
+    "audience": "Aftershave",
+    "brand": "Hugo Boss",
+    "name": "Boss Bottled Absolu",
+    "concentration": "Parfum Intense",
+    "family": "Leather woody",
+    "accords": [
+      "leather",
+      "incense",
+      "myrrh",
+      "cedar",
+      "patchouli"
+    ],
+    "moods": [
+      "mature",
+      "powerful",
+      "luxurious"
+    ],
+    "seasons": [
+      "autumn",
+      "winter"
+    ],
+    "intensity": 5,
+    "bestFor": "Formal evenings and cold weather",
+    "popularityBasis": "UK fragrance retailer bestseller and popularity lists, reviewed August 2026",
+    "retailSource": "https://www.theperfumeshop.com/mens/mens-fragrance/mens-bestsellers/c/M30001"
+  },
+  {
+    "id": "M31-rabanne-phantom",
+    "slug": "m31-rabanne-phantom",
+    "popularityRank": 31,
+    "audience": "Aftershave",
+    "brand": "Rabanne",
+    "name": "Phantom",
+    "concentration": "EDT",
+    "family": "Aromatic woody",
+    "accords": [
+      "lavender",
+      "lemon",
+      "vanilla",
+      "apple",
+      "woody"
+    ],
+    "moods": [
+      "playful",
+      "modern",
+      "sweet"
+    ],
+    "seasons": [
+      "spring",
+      "summer",
+      "autumn"
+    ],
+    "intensity": 4,
+    "bestFor": "Casual social and nights out",
+    "popularityBasis": "UK fragrance retailer bestseller and popularity lists, reviewed August 2026",
+    "retailSource": "https://www.theperfumeshop.com/mens/mens-fragrance/mens-bestsellers/c/M30001"
+  },
+  {
+    "id": "M32-tom-ford-black-orchid",
+    "slug": "m32-tom-ford-black-orchid",
+    "popularityRank": 32,
+    "audience": "Aftershave",
+    "brand": "Tom Ford",
+    "name": "Black Orchid",
+    "concentration": "EDP",
+    "family": "Amber floral",
+    "accords": [
+      "truffle",
+      "dark chocolate",
+      "patchouli",
+      "floral",
+      "earthy"
+    ],
+    "moods": [
+      "mysterious",
+      "bold",
+      "luxurious"
+    ],
+    "seasons": [
+      "autumn",
+      "winter"
+    ],
+    "intensity": 5,
+    "bestFor": "Statement evenings",
+    "popularityBasis": "UK fragrance retailer bestseller and popularity lists, reviewed August 2026",
+    "retailSource": "https://www.theperfumeshop.com/mens/mens-fragrance/mens-bestsellers/c/M30001"
+  },
+  {
+    "id": "M33-giorgio-armani-acqua-di-gio",
+    "slug": "m33-giorgio-armani-acqua-di-gio",
+    "popularityRank": 33,
+    "audience": "Aftershave",
+    "brand": "Giorgio Armani",
+    "name": "Acqua di Giò",
+    "concentration": "EDT",
+    "family": "Aromatic aquatic",
+    "accords": [
+      "marine",
+      "citrus",
+      "jasmine",
+      "herbal",
+      "musk"
+    ],
+    "moods": [
+      "fresh",
+      "clean",
+      "classic"
+    ],
+    "seasons": [
+      "spring",
+      "summer"
+    ],
+    "intensity": 3,
+    "bestFor": "Daytime, work and holidays",
+    "popularityBasis": "UK fragrance retailer bestseller and popularity lists, reviewed August 2026",
+    "retailSource": "https://www.theperfumeshop.com/mens/mens-fragrance/mens-bestsellers/c/M30001"
+  },
+  {
+    "id": "M34-dior-sauvage",
+    "slug": "m34-dior-sauvage",
+    "popularityRank": 34,
+    "audience": "Aftershave",
+    "brand": "Dior",
+    "name": "Sauvage",
+    "concentration": "Parfum",
+    "family": "Amber fougère",
+    "accords": [
+      "bergamot",
+      "sandalwood",
+      "tonka",
+      "olibanum",
+      "woody"
+    ],
+    "moods": [
+      "smooth",
+      "mature",
+      "versatile"
+    ],
+    "seasons": [
+      "autumn",
+      "winter",
+      "spring"
+    ],
+    "intensity": 5,
+    "bestFor": "Evening and signature wear",
+    "popularityBasis": "UK fragrance retailer bestseller and popularity lists, reviewed August 2026",
+    "retailSource": "https://www.theperfumeshop.com/mens/mens-fragrance/mens-bestsellers/c/M30001"
+  },
+  {
+    "id": "M35-hugo-boss-boss-bottled",
+    "slug": "m35-hugo-boss-boss-bottled",
+    "popularityRank": 35,
+    "audience": "Aftershave",
+    "brand": "Hugo Boss",
+    "name": "Boss Bottled",
+    "concentration": "EDT",
+    "family": "Woody spicy",
+    "accords": [
+      "apple",
+      "cinnamon",
+      "plum",
+      "vanilla",
+      "woody"
+    ],
+    "moods": [
+      "classic",
+      "warm",
+      "versatile"
+    ],
+    "seasons": [
+      "autumn",
+      "winter",
+      "spring"
+    ],
+    "intensity": 3,
+    "bestFor": "Work and everyday",
+    "popularityBasis": "UK fragrance retailer bestseller and popularity lists, reviewed August 2026",
+    "retailSource": "https://www.theperfumeshop.com/mens/mens-fragrance/mens-bestsellers/c/M30001"
+  },
+  {
+    "id": "M36-prada-luna-rossa-ocean",
+    "slug": "m36-prada-luna-rossa-ocean",
+    "popularityRank": 36,
+    "audience": "Aftershave",
+    "brand": "Prada",
+    "name": "Luna Rossa Ocean",
+    "concentration": "EDP",
+    "family": "Amber woody",
+    "accords": [
+      "grapefruit",
+      "incense",
+      "vanilla",
+      "amber",
+      "woody"
+    ],
+    "moods": [
+      "modern",
+      "clean",
+      "versatile"
+    ],
+    "seasons": [
+      "spring",
+      "autumn",
+      "winter"
+    ],
+    "intensity": 4,
+    "bestFor": "Work to evening",
+    "popularityBasis": "UK fragrance retailer bestseller and popularity lists, reviewed August 2026",
+    "retailSource": "https://www.theperfumeshop.com/mens/mens-fragrance/mens-bestsellers/c/M30001"
+  },
+  {
+    "id": "M37-azzaro-the-most-wanted",
+    "slug": "m37-azzaro-the-most-wanted",
+    "popularityRank": 37,
+    "audience": "Aftershave",
+    "brand": "Azzaro",
+    "name": "The Most Wanted",
+    "concentration": "Parfum",
+    "family": "Woody spicy gourmand",
+    "accords": [
+      "ginger",
+      "vanilla",
+      "bourbon",
+      "woody",
+      "sweet"
+    ],
+    "moods": [
+      "bold",
+      "sensual",
+      "night-out"
+    ],
+    "seasons": [
+      "autumn",
+      "winter"
+    ],
+    "intensity": 5,
+    "bestFor": "Dates and nights out",
+    "popularityBasis": "UK fragrance retailer bestseller and popularity lists, reviewed August 2026",
+    "retailSource": "https://www.theperfumeshop.com/mens/mens-fragrance/mens-bestsellers/c/M30001"
+  },
+  {
+    "id": "M38-joop-homme",
+    "slug": "m38-joop-homme",
+    "popularityRank": 38,
+    "audience": "Aftershave",
+    "brand": "Joop!",
+    "name": "Homme",
+    "concentration": "EDT",
+    "family": "Amber fougère",
+    "accords": [
+      "cinnamon",
+      "orange blossom",
+      "vanilla",
+      "honey",
+      "patchouli"
+    ],
+    "moods": [
+      "bold",
+      "retro",
+      "sweet"
+    ],
+    "seasons": [
+      "autumn",
+      "winter"
+    ],
+    "intensity": 5,
+    "bestFor": "Evenings and nostalgic signature wear",
+    "popularityBasis": "UK fragrance retailer bestseller and popularity lists, reviewed August 2026",
+    "retailSource": "https://www.theperfumeshop.com/mens/mens-fragrance/mens-bestsellers/c/M30001"
+  },
+  {
+    "id": "M39-tom-ford-bois-pacifique",
+    "slug": "m39-tom-ford-bois-pacifique",
+    "popularityRank": 39,
+    "audience": "Aftershave",
+    "brand": "Tom Ford",
+    "name": "Bois Pacifique",
+    "concentration": "EDP",
+    "family": "Woody spicy",
+    "accords": [
+      "cardamom",
+      "sandalwood",
+      "cedar",
+      "amber",
+      "spicy"
+    ],
+    "moods": [
+      "calm",
+      "luxurious",
+      "modern"
+    ],
+    "seasons": [
+      "autumn",
+      "winter",
+      "spring"
+    ],
+    "intensity": 4,
+    "bestFor": "Smart casual and evening",
+    "popularityBasis": "UK fragrance retailer bestseller and popularity lists, reviewed August 2026",
+    "retailSource": "https://www.theperfumeshop.com/mens/mens-fragrance/mens-bestsellers/c/M30001"
+  },
+  {
+    "id": "M40-jean-paul-gaultier-le-male-elixir",
+    "slug": "m40-jean-paul-gaultier-le-male-elixir",
+    "popularityRank": 40,
+    "audience": "Aftershave",
+    "brand": "Jean Paul Gaultier",
+    "name": "Le Male Elixir",
+    "concentration": "Parfum",
+    "family": "Amber gourmand",
+    "accords": [
+      "honey",
+      "vanilla",
+      "tobacco",
+      "tonka",
+      "lavender"
+    ],
+    "moods": [
+      "bold",
+      "sweet",
+      "sensual"
+    ],
+    "seasons": [
+      "autumn",
+      "winter"
+    ],
+    "intensity": 5,
+    "bestFor": "Nights out and dates",
+    "popularityBasis": "UK fragrance retailer bestseller and popularity lists, reviewed August 2026",
+    "retailSource": "https://www.theperfumeshop.com/mens/mens-fragrance/mens-bestsellers/c/M30001"
+  },
+  {
+    "id": "M41-diesel-only-the-brave",
+    "slug": "m41-diesel-only-the-brave",
+    "popularityRank": 41,
+    "audience": "Aftershave",
+    "brand": "Diesel",
+    "name": "Only The Brave",
+    "concentration": "EDT",
+    "family": "Amber woody",
+    "accords": [
+      "lemon",
+      "leather",
+      "amber",
+      "cedar",
+      "violet"
+    ],
+    "moods": [
+      "youthful",
+      "bold",
+      "casual"
+    ],
+    "seasons": [
+      "spring",
+      "autumn",
+      "winter"
+    ],
+    "intensity": 4,
+    "bestFor": "Casual social wear",
+    "popularityBasis": "UK fragrance retailer bestseller and popularity lists, reviewed August 2026",
+    "retailSource": "https://www.theperfumeshop.com/mens/mens-fragrance/mens-bestsellers/c/M30001"
+  },
+  {
+    "id": "M42-hugo-boss-boss-selection",
+    "slug": "m42-hugo-boss-boss-selection",
+    "popularityRank": 42,
+    "audience": "Aftershave",
+    "brand": "Hugo Boss",
+    "name": "Boss Selection",
+    "concentration": "EDT",
+    "family": "Aromatic fougère",
+    "accords": [
+      "grapefruit",
+      "pink pepper",
+      "cedar",
+      "musk",
+      "patchouli"
+    ],
+    "moods": [
+      "classic",
+      "clean",
+      "understated"
+    ],
+    "seasons": [
+      "spring",
+      "summer",
+      "autumn"
+    ],
+    "intensity": 3,
+    "bestFor": "Work and daytime",
+    "popularityBasis": "UK fragrance retailer bestseller and popularity lists, reviewed August 2026",
+    "retailSource": "https://www.theperfumeshop.com/mens/mens-fragrance/mens-bestsellers/c/M30001"
+  },
+  {
+    "id": "M43-prada-luna-rossa-black",
+    "slug": "m43-prada-luna-rossa-black",
+    "popularityRank": 43,
+    "audience": "Aftershave",
+    "brand": "Prada",
+    "name": "Luna Rossa Black",
+    "concentration": "EDP",
+    "family": "Amber woody",
+    "accords": [
+      "powdery",
+      "tonka",
+      "amber",
+      "musk",
+      "bergamot"
+    ],
+    "moods": [
+      "smooth",
+      "sensual",
+      "modern"
+    ],
+    "seasons": [
+      "autumn",
+      "winter"
+    ],
+    "intensity": 4,
+    "bestFor": "Dates and smart evenings",
+    "popularityBasis": "UK fragrance retailer bestseller and popularity lists, reviewed August 2026",
+    "retailSource": "https://www.theperfumeshop.com/mens/mens-fragrance/mens-bestsellers/c/M30001"
+  },
+  {
+    "id": "M44-burberry-touch-for-men",
+    "slug": "m44-burberry-touch-for-men",
+    "popularityRank": 44,
+    "audience": "Aftershave",
+    "brand": "Burberry",
+    "name": "Touch for Men",
+    "concentration": "EDT",
+    "family": "Woody floral musk",
+    "accords": [
+      "violet leaf",
+      "pepper",
+      "musk",
+      "cedar",
+      "tonka"
+    ],
+    "moods": [
+      "soft",
+      "clean",
+      "comforting"
+    ],
+    "seasons": [
+      "spring",
+      "autumn",
+      "winter"
+    ],
+    "intensity": 3,
+    "bestFor": "Work and relaxed dates",
+    "popularityBasis": "UK fragrance retailer bestseller and popularity lists, reviewed August 2026",
+    "retailSource": "https://www.theperfumeshop.com/mens/mens-fragrance/mens-bestsellers/c/M30001"
+  },
+  {
+    "id": "M45-rabanne-1-million-elixir",
+    "slug": "m45-rabanne-1-million-elixir",
+    "popularityRank": 45,
+    "audience": "Aftershave",
+    "brand": "Rabanne",
+    "name": "1 Million Elixir",
+    "concentration": "Parfum",
+    "family": "Woody aromatic gourmand",
+    "accords": [
+      "apple",
+      "vanilla",
+      "tonka",
+      "rose",
+      "cedar"
+    ],
+    "moods": [
+      "bold",
+      "sweet",
+      "powerful"
+    ],
+    "seasons": [
+      "autumn",
+      "winter"
+    ],
+    "intensity": 5,
+    "bestFor": "Nights out and cold weather",
+    "popularityBasis": "UK fragrance retailer bestseller and popularity lists, reviewed August 2026",
+    "retailSource": "https://www.theperfumeshop.com/mens/mens-fragrance/mens-bestsellers/c/M30001"
+  },
+  {
+    "id": "M46-tom-ford-ombre-leather",
+    "slug": "m46-tom-ford-ombre-leather",
+    "popularityRank": 46,
+    "audience": "Aftershave",
+    "brand": "Tom Ford",
+    "name": "Ombré Leather",
+    "concentration": "Parfum",
+    "family": "Leather floral",
+    "accords": [
+      "leather",
+      "violet leaf",
+      "tobacco",
+      "jasmine",
+      "woody"
+    ],
+    "moods": [
+      "luxurious",
+      "mature",
+      "bold"
+    ],
+    "seasons": [
+      "autumn",
+      "winter"
+    ],
+    "intensity": 5,
+    "bestFor": "Formal evenings and statement wear",
+    "popularityBasis": "UK fragrance retailer bestseller and popularity lists, reviewed August 2026",
+    "retailSource": "https://www.theperfumeshop.com/mens/mens-fragrance/mens-bestsellers/c/M30001"
+  },
+  {
+    "id": "M47-hugo-boss-bottled-beyond",
+    "slug": "m47-hugo-boss-bottled-beyond",
+    "popularityRank": 47,
+    "audience": "Aftershave",
+    "brand": "Hugo Boss",
+    "name": "Bottled Beyond",
+    "concentration": "EDP",
+    "family": "Woody spicy",
+    "accords": [
+      "ginger",
+      "leather",
+      "woody",
+      "amber",
+      "spicy"
+    ],
+    "moods": [
+      "modern",
+      "confident",
+      "warm"
+    ],
+    "seasons": [
+      "autumn",
+      "winter",
+      "spring"
+    ],
+    "intensity": 4,
+    "bestFor": "Work to evening",
+    "popularityBasis": "UK fragrance retailer bestseller and popularity lists, reviewed August 2026",
+    "retailSource": "https://www.theperfumeshop.com/mens/mens-fragrance/mens-bestsellers/c/M30001"
+  },
+  {
+    "id": "M48-calvin-klein-ck-in2u-man",
+    "slug": "m48-calvin-klein-ck-in2u-man",
+    "popularityRank": 48,
+    "audience": "Aftershave",
+    "brand": "Calvin Klein",
+    "name": "CK IN2U Man",
+    "concentration": "EDT",
+    "family": "Aromatic fougère",
+    "accords": [
+      "lemon",
+      "cacao",
+      "cedar",
+      "musk",
+      "fresh"
+    ],
+    "moods": [
+      "casual",
+      "youthful",
+      "clean"
+    ],
+    "seasons": [
+      "spring",
+      "summer"
+    ],
+    "intensity": 3,
+    "bestFor": "Casual daytime and holidays",
+    "popularityBasis": "UK fragrance retailer bestseller and popularity lists, reviewed August 2026",
+    "retailSource": "https://www.theperfumeshop.com/mens/mens-fragrance/mens-bestsellers/c/M30001"
+  },
+  {
+    "id": "M49-hugo-boss-the-scent",
+    "slug": "m49-hugo-boss-the-scent",
+    "popularityRank": 49,
+    "audience": "Aftershave",
+    "brand": "Hugo Boss",
+    "name": "The Scent",
+    "concentration": "EDT",
+    "family": "Aromatic spicy",
+    "accords": [
+      "ginger",
+      "maninka",
+      "leather",
+      "lavender",
+      "woody"
+    ],
+    "moods": [
+      "sensual",
+      "polished",
+      "warm"
+    ],
+    "seasons": [
+      "autumn",
+      "winter",
+      "spring"
+    ],
+    "intensity": 4,
+    "bestFor": "Dates and smart casual",
+    "popularityBasis": "UK fragrance retailer bestseller and popularity lists, reviewed August 2026",
+    "retailSource": "https://www.theperfumeshop.com/mens/mens-fragrance/mens-bestsellers/c/M30001"
+  },
+  {
+    "id": "M50-ralph-lauren-polo-red",
+    "slug": "m50-ralph-lauren-polo-red",
+    "popularityRank": 50,
+    "audience": "Aftershave",
+    "brand": "Ralph Lauren",
+    "name": "Polo Red",
+    "concentration": "EDT",
+    "family": "Woody spicy",
+    "accords": [
+      "cranberry",
+      "grapefruit",
+      "coffee",
+      "amber",
+      "woody"
+    ],
+    "moods": [
+      "energetic",
+      "bold",
+      "casual"
+    ],
+    "seasons": [
+      "spring",
+      "autumn",
+      "winter"
+    ],
+    "intensity": 4,
+    "bestFor": "Casual social and evenings",
+    "popularityBasis": "UK fragrance retailer bestseller and popularity lists, reviewed August 2026",
+    "retailSource": "https://www.theperfumeshop.com/mens/mens-fragrance/mens-bestsellers/c/M30001"
+  }
+]
