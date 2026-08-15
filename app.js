@@ -3,6 +3,7 @@ const baseUrl = new URL(".", import.meta.url);
 
 let fragrances = [];
 let recommendations = [];
+let retailerProducts = [];
 let fragranceById = new Map();
 let recommendationBySource = new Map();
 
@@ -32,10 +33,14 @@ let explore = {
 };
 
 try {
-  [fragrances, recommendations] = await Promise.all([
+  [fragrances, recommendations, retailerProducts] = await Promise.all([
     fetch(new URL("data/fragrances.json", baseUrl)).then((response) => response.json()),
     fetch(new URL("data/recommendations.json", baseUrl)).then((response) => response.json()),
+    fetch(new URL("data/retailer-products.json", baseUrl)).then((response) => response.json()),
   ]);
+
+  const retailerById = new Map(retailerProducts.map((item) => [item.id, item]));
+  fragrances = fragrances.map((item) => ({ ...item, ...retailerById.get(item.id) }));
 
   fragranceById = new Map(fragrances.map((item) => [item.id, item]));
   recommendationBySource = recommendations.reduce((map, item) => {
@@ -243,10 +248,10 @@ function renderHome() {
 function fragranceCard(item) {
   return `
     <a class="fragrance-card" href="#/fragrance/${encodeURIComponent(item.slug)}">
-      <div class="scent-visual" style="${visualStyle(item)}">
+      ${scentVisual(item, `
         <span class="rank-chip">UK edit #${item.popularityRank}</span>
         <span class="audience-chip">${item.audience === "Perfume" ? "Perfume" : "Men's"}</span>
-      </div>
+      `)}
       <div class="fragrance-card-body">
         <p class="brand-label">${escapeHtml(item.brand)}</p>
         <h3>${escapeHtml(item.name)}</h3>
@@ -621,7 +626,7 @@ function resultCard(match, label) {
   const item = match.fragrance;
   return `
     <article class="result-card">
-      <div class="scent-visual" style="${visualStyle(item)}"><span class="audience-chip">${escapeHtml(match.direction)}</span></div>
+      ${scentVisual(item, `<span class="audience-chip">${escapeHtml(match.direction)}</span>`)}
       <div class="result-copy">
         <p class="result-position">${label}</p>
         <p class="brand-label">${escapeHtml(item.brand)}</p>
@@ -731,7 +736,7 @@ function renderDetail(item) {
   const relationships = (recommendationBySource.get(item.id) || []).slice(0, 5);
   return `
     <section class="detail-hero">
-      <div class="scent-visual" style="${visualStyle(item)}"><span class="rank-chip">UK edit #${item.popularityRank}</span></div>
+      ${scentVisual(item, `<span class="rank-chip">UK edit #${item.popularityRank}</span>`)}
       <div class="detail-copy">
         <p class="eyebrow">${item.audience === "Perfume" ? "Perfume profile" : "Men's fragrance profile"}</p>
         <p class="brand-label">${escapeHtml(item.brand)}</p>
@@ -744,6 +749,7 @@ function renderDetail(item) {
           <div class="detail-fact"><span>Seasons</span><strong>${escapeHtml(item.seasons.map(titleCase).join(" · "))}</strong></div>
         </div>
         <a class="button oxblood" href="#/find-your-fragrance" style="margin-top:28px">Use as my starting fragrance →</a>
+        ${item.productUrl ? `<p class="product-image-credit">Temporary product image from <a href="${escapeAttribute(item.productUrl)}" target="_blank" rel="noopener noreferrer">The Fragrance Shop ↗</a></p>` : ""}
       </div>
     </section>
     <section class="content-section">
@@ -763,7 +769,7 @@ function renderDetail(item) {
         <div class="card-grid">${relationships.map((relationship) => {
           const related = fragranceById.get(relationship.recommendationId);
           return `<a class="fragrance-card" href="#/fragrance/${encodeURIComponent(related.slug)}">
-            <div class="scent-visual" style="${visualStyle(related)}"><span class="rank-chip">${escapeHtml(relationship.direction)}</span></div>
+            ${scentVisual(related, `<span class="rank-chip">${escapeHtml(relationship.direction)}</span>`)}
             <div class="fragrance-card-body"><p class="brand-label">${escapeHtml(related.brand)}</p><h3>${escapeHtml(related.name)}</h3><p class="card-meta">Base relationship ${relationship.baseScore}% · ${escapeHtml(relationship.confidence)} confidence</p><p class="muted" style="font-size:12px">${escapeHtml(relationship.why)}</p><div class="tag-list">${relationship.sharedAccords.map(tag).join("")}</div><span class="card-link">View comparison <span>→</span></span></div>
           </a>`;
         }).join("")}</div>
@@ -812,6 +818,19 @@ function bindGlobalEvents() {
     document.body.classList.toggle("menu-open", open);
   });
   mobileMenu?.querySelectorAll("a").forEach((link) => link.addEventListener("click", () => document.body.classList.remove("menu-open")));
+  document.querySelectorAll("[data-product-image]").forEach((image) => {
+    image.addEventListener("error", () => {
+      image.closest(".scent-visual")?.classList.remove("has-product-image");
+      image.remove();
+    }, { once: true });
+  });
+}
+
+function scentVisual(item, overlays = "") {
+  const productImage = item.imageUrl
+    ? `<img class="product-packshot" data-product-image src="${escapeAttribute(item.imageUrl)}" alt="${escapeAttribute(`${item.brand} ${item.name} ${item.concentration} bottle`)}" loading="lazy" decoding="async">`
+    : "";
+  return `<div class="scent-visual${productImage ? " has-product-image" : ""}" style="${visualStyle(item)}">${productImage}${overlays}</div>`;
 }
 
 function visualStyle(item) {
