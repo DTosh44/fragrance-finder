@@ -531,6 +531,39 @@ svg {
   transform: rotate(-23deg);
 }
 
+.scent-visual.has-product-image {
+  display: grid;
+  place-items: center;
+  background: linear-gradient(145deg, #f7f4ed, #fffdfa 52%, #ece7de);
+}
+
+.scent-visual.has-product-image::before,
+.scent-visual.has-product-image::after {
+  opacity: 0;
+}
+
+.product-packshot {
+  position: absolute;
+  z-index: 1;
+  inset: 20px 24px 14px;
+  width: calc(100% - 48px);
+  height: calc(100% - 34px);
+  object-fit: contain;
+  filter: drop-shadow(0 16px 18px rgba(31, 23, 18, 0.14));
+  mix-blend-mode: multiply;
+}
+
+.product-image-credit {
+  margin: 18px 0 0;
+  color: var(--muted);
+  font-size: 11px;
+}
+
+.product-image-credit a {
+  border-bottom: 1px solid currentColor;
+  color: var(--ink);
+}
+
 .rank-chip,
 .audience-chip {
   position: absolute;
