@@ -29,6 +29,7 @@ The repository includes an automatic Pages workflow. In GitHub, open **Settings 
 
 - `data/fragrances.json`: 100 launch fragrances and their structured profiles.
 - `data/recommendations.json`: 500 precomputed comparison relationships.
+- `data/retailer-products.json`: temporary, concentration-matched product imagery and product links sourced only from The Fragrance Shop. Unmapped fragrances use the site's abstract fallback artwork. This separate adapter can be replaced by a future affiliate product feed without changing the core fragrance dataset.
 - `scripts/extract-data.mjs`: regenerates both files from the project workbook builder in the parent workspace.
 
 The match score is a transparent guide based on structured fragrance profile overlap and chooser preferences. It is not a scientific prediction, a dupe claim or a guarantee of how a fragrance will perform on skin.
