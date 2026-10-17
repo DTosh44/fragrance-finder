@@ -2,7 +2,7 @@
 
 A premium, responsive fragrance discovery website built around a curated UK launch dataset of 50 perfumes, 50 men's fragrances and five comparable recommendations for each scent.
 
-## Product intent, visual direction and next decision
+## Product intent, visual direction and affiliate model
 
 **Purpose:** help UK users discover a fragrance they may enjoy by starting from a scent they already know or from their preferences, then seeing five explainable, comparable suggestions. This is curated fragrance discovery, **not** a scientifically accurate skin-performance forecast, a dupe guarantee, or a live price-comparison engine.
 
@@ -10,7 +10,9 @@ A premium, responsive fragrance discovery website built around a curated UK laun
 
 **Current product:** a carefully structured 100-fragrance launch dataset (50 perfumes, 50 men's fragrances), with five comparison links per scent. Retailer images/links live in an interchangeable adapter so a future permitted product feed does not alter fragrance identity or matching logic.
 
-**Next decision:** whether to commercialise as an affiliate-led discovery site or retain it as a free consumer discovery tool. The affiliate/retailer-feed model, licensing, launch catalogue breadth and commercial objective are **unresolved**; do not treat them as approved. If revived, settle those decisions before scaling the catalogue, changing the design, adding accounts or launching commerce. See [PROJECT.md](PROJECT.md) for current state and [AGENTS.md](AGENTS.md) for handoff rules.
+**Confirmed direction (17 October 2026):** Fragrance Finder is an **affiliate-funded fragrance discovery website**. Discovery remains free to visitors. Where authorised retailer links are available, commissions from qualifying purchases will fund the product; fragrance suitability and transparency must take precedence over commission rates. Clearly disclose affiliate relationships and distinguish any paid placement from independent recommendations.
+
+**Still to decide:** individual affiliate programmes/retailers, commercial link or feed arrangements, permitted imagery/data, tracking and consent approach, and the final launch catalogue size. The current retailer adapter is a temporary product-link source, **not evidence that affiliate agreements or tracked commissions are live**. Next, validate partners and feed rights, integrate permitted affiliate links and disclosure, then test the full referral journey before expanding the catalogue. See [PROJECT.md](PROJECT.md) for status and [AGENTS.md](AGENTS.md) for guardrails.
 
 ## Preview locally
 
